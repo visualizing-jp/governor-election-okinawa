@@ -1,0 +1,45 @@
+{
+  "pref": "47",
+  "n": 5,
+  "date": "1986-11-16",
+  "notice": "1986-10-27",
+  "reason": "任期満了",
+  "turnout": {
+    "electors": {
+      "male": 378696,
+      "female": 401785,
+      "total": 780481
+    },
+    "voters": {
+      "male": 273162,
+      "female": 305287,
+      "total": 578449
+    }
+  },
+  "candidates": [
+    {
+      "id": "西銘順治",
+      "name": "西銘順治",
+      "age": 65,
+      "status": "現",
+      "occupation": "沖縄県知事",
+      "party": "無所属",
+      "votes": 321936,
+      "elected": true
+    },
+    {
+      "id": "金城睦",
+      "name": "金城睦",
+      "age": 49,
+      "status": "新",
+      "occupation": "弁護士",
+      "party": "知事選革新共闘会議",
+      "votes": 252744,
+      "elected": false
+    }
+  ],
+  "municipalities": null,
+  "sources": [
+    "nenpou-r7"
+  ]
+}

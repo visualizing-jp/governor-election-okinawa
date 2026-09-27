@@ -1,0 +1,25 @@
+{
+  "note": "1972年5月15日（本土復帰）以降に廃止された市町村と、その後継の市町村。e-Stat 統計LOD（標準地域コード）の sacs:succeedingMunicipality を SPARQL で取得した（https://data.e-stat.go.jp/lod/sparql/alldata/query、2026年9月27日）。until は廃止日（後継の発足日）。市制施行でコードが変わったもの（豊見城村→豊見城市）も含む。",
+  "entries": [
+    { "code": "47204", "name": "コザ市", "until": "1974-04-01", "successor": "47211", "successorName": "沖縄市" },
+    { "code": "47321", "name": "美里村", "until": "1974-04-01", "successor": "47211", "successorName": "沖縄市" },
+    { "code": "47341", "name": "豊見城村", "until": "2002-04-01", "successor": "47212", "successorName": "豊見城市" },
+    { "code": "47351", "name": "仲里村", "until": "2002-04-01", "successor": "47361", "successorName": "久米島町" },
+    { "code": "47352", "name": "具志川村", "until": "2002-04-01", "successor": "47361", "successorName": "久米島町" },
+    { "code": "47202", "name": "石川市", "until": "2005-04-01", "successor": "47213", "successorName": "うるま市" },
+    { "code": "47203", "name": "具志川市", "until": "2005-04-01", "successor": "47213", "successorName": "うるま市" },
+    { "code": "47322", "name": "与那城町", "until": "2005-04-01", "successor": "47213", "successorName": "うるま市" },
+    { "code": "47323", "name": "勝連町", "until": "2005-04-01", "successor": "47213", "successorName": "うるま市" },
+    { "code": "47206", "name": "平良市", "until": "2005-10-01", "successor": "47214", "successorName": "宮古島市" },
+    { "code": "47371", "name": "城辺町", "until": "2005-10-01", "successor": "47214", "successorName": "宮古島市" },
+    { "code": "47372", "name": "下地町", "until": "2005-10-01", "successor": "47214", "successorName": "宮古島市" },
+    { "code": "47373", "name": "上野村", "until": "2005-10-01", "successor": "47214", "successorName": "宮古島市" },
+    { "code": "47374", "name": "伊良部町", "until": "2005-10-01", "successor": "47214", "successorName": "宮古島市" },
+    { "code": "47343", "name": "東風平町", "until": "2006-01-01", "successor": "47362", "successorName": "八重瀬町" },
+    { "code": "47344", "name": "具志頭村", "until": "2006-01-01", "successor": "47362", "successorName": "八重瀬町" },
+    { "code": "47345", "name": "玉城村", "until": "2006-01-01", "successor": "47215", "successorName": "南城市" },
+    { "code": "47346", "name": "知念村", "until": "2006-01-01", "successor": "47215", "successorName": "南城市" },
+    { "code": "47347", "name": "佐敷町", "until": "2006-01-01", "successor": "47215", "successorName": "南城市" },
+    { "code": "47349", "name": "大里村", "until": "2006-01-01", "successor": "47215", "successorName": "南城市" }
+  ]
+}

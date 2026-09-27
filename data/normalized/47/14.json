@@ -1,0 +1,1006 @@
+{
+  "pref": "47",
+  "n": 14,
+  "date": "2022-09-11",
+  "notice": "2022-08-25",
+  "reason": "任期満了",
+  "turnout": {
+    "electors": {
+      "male": 567614,
+      "female": 597996,
+      "total": 1165610
+    },
+    "voters": {
+      "male": 322870,
+      "female": 352298,
+      "total": 675168
+    }
+  },
+  "candidates": [
+    {
+      "id": "玉城康裕",
+      "name": "玉城康裕",
+      "label": "玉城デニー",
+      "age": 62,
+      "status": "現",
+      "occupation": "沖縄県知事",
+      "party": "無所属",
+      "votes": 339767,
+      "elected": true
+    },
+    {
+      "id": "佐喜眞淳",
+      "name": "佐喜眞淳",
+      "age": 58,
+      "status": "新",
+      "occupation": "無職",
+      "party": "無所属",
+      "votes": 274844,
+      "elected": false
+    },
+    {
+      "id": "下地幹郎",
+      "name": "下地幹郎",
+      "age": 61,
+      "status": "新",
+      "occupation": "無職",
+      "party": "無所属",
+      "votes": 53677,
+      "elected": false
+    }
+  ],
+  "municipalities": {
+    "boundary": "2006",
+    "rows": [
+      {
+        "code": "47201",
+        "name": "那覇市",
+        "votes": {
+          "下地幹郎": 15775,
+          "佐喜眞淳": 47925,
+          "玉城康裕": 72688
+        },
+        "valid": 136388,
+        "invalid": 1369,
+        "turnout": {
+          "electors": {
+            "male": 121903,
+            "female": 133355,
+            "total": 255258
+          },
+          "voters": {
+            "male": 64044,
+            "female": 73717,
+            "total": 137761
+          }
+        }
+      },
+      {
+        "code": "47205",
+        "name": "宜野湾市",
+        "votes": {
+          "下地幹郎": 2447,
+          "佐喜眞淳": 26221,
+          "玉城康裕": 20722
+        },
+        "valid": 49390,
+        "invalid": 424,
+        "turnout": {
+          "electors": {
+            "male": 37244,
+            "female": 40417,
+            "total": 77661
+          },
+          "voters": {
+            "male": 23276,
+            "female": 26540,
+            "total": 49816
+          }
+        }
+      },
+      {
+        "code": "47207",
+        "name": "石垣市",
+        "votes": {
+          "下地幹郎": 2377,
+          "佐喜眞淳": 10721,
+          "玉城康裕": 11193
+        },
+        "valid": 24291,
+        "invalid": 334,
+        "turnout": {
+          "electors": {
+            "male": 19428,
+            "female": 19400,
+            "total": 38828
+          },
+          "voters": {
+            "male": 12046,
+            "female": 12579,
+            "total": 24625
+          }
+        }
+      },
+      {
+        "code": "47208",
+        "name": "浦添市",
+        "votes": {
+          "下地幹郎": 4833,
+          "佐喜眞淳": 19993,
+          "玉城康裕": 25340
+        },
+        "valid": 50166,
+        "invalid": 468,
+        "turnout": {
+          "electors": {
+            "male": 43385,
+            "female": 47469,
+            "total": 90854
+          },
+          "voters": {
+            "male": 23607,
+            "female": 27027,
+            "total": 50634
+          }
+        }
+      },
+      {
+        "code": "47209",
+        "name": "名護市",
+        "votes": {
+          "下地幹郎": 1491,
+          "佐喜眞淳": 15717,
+          "玉城康裕": 15407
+        },
+        "valid": 32615,
+        "invalid": 348,
+        "turnout": {
+          "electors": {
+            "male": 24535,
+            "female": 25437,
+            "total": 49972
+          },
+          "voters": {
+            "male": 15932,
+            "female": 17032,
+            "total": 32964
+          }
+        }
+      },
+      {
+        "code": "47210",
+        "name": "糸満市",
+        "votes": {
+          "下地幹郎": 1994,
+          "佐喜眞淳": 10175,
+          "玉城康裕": 12811
+        },
+        "valid": 24980,
+        "invalid": 197,
+        "turnout": {
+          "electors": {
+            "male": 24124,
+            "female": 23927,
+            "total": 48051
+          },
+          "voters": {
+            "male": 12424,
+            "female": 12753,
+            "total": 25177
+          }
+        }
+      },
+      {
+        "code": "47211",
+        "name": "沖縄市",
+        "votes": {
+          "下地幹郎": 3400,
+          "佐喜眞淳": 26390,
+          "玉城康裕": 32802
+        },
+        "valid": 62592,
+        "invalid": 790,
+        "turnout": {
+          "electors": {
+            "male": 53269,
+            "female": 58486,
+            "total": 111755
+          },
+          "voters": {
+            "male": 29640,
+            "female": 33731,
+            "total": 63371
+          }
+        }
+      },
+      {
+        "code": "47212",
+        "name": "豊見城市",
+        "votes": {
+          "下地幹郎": 2449,
+          "佐喜眞淳": 10764,
+          "玉城康裕": 13965
+        },
+        "valid": 27178,
+        "invalid": 213,
+        "turnout": {
+          "electors": {
+            "male": 24308,
+            "female": 25901,
+            "total": 50209
+          },
+          "voters": {
+            "male": 13011,
+            "female": 14382,
+            "total": 27393
+          }
+        }
+      },
+      {
+        "code": "47213",
+        "name": "うるま市",
+        "votes": {
+          "下地幹郎": 2170,
+          "佐喜眞淳": 21610,
+          "玉城康裕": 27546
+        },
+        "valid": 51326,
+        "invalid": 429,
+        "turnout": {
+          "electors": {
+            "male": 48852,
+            "female": 49734,
+            "total": 98586
+          },
+          "voters": {
+            "male": 25121,
+            "female": 26634,
+            "total": 51755
+          }
+        }
+      },
+      {
+        "code": "47214",
+        "name": "宮古島市",
+        "votes": {
+          "下地幹郎": 4517,
+          "佐喜眞淳": 7901,
+          "玉城康裕": 8104
+        },
+        "valid": 20522,
+        "invalid": 180,
+        "turnout": {
+          "electors": {
+            "male": 22371,
+            "female": 22079,
+            "total": 44450
+          },
+          "voters": {
+            "male": 10424,
+            "female": 10278,
+            "total": 20702
+          }
+        }
+      },
+      {
+        "code": "47215",
+        "name": "南城市",
+        "votes": {
+          "下地幹郎": 1439,
+          "佐喜眞淳": 10606,
+          "玉城康裕": 12182
+        },
+        "valid": 24227,
+        "invalid": 261,
+        "turnout": {
+          "electors": {
+            "male": 17902,
+            "female": 17835,
+            "total": 35737
+          },
+          "voters": {
+            "male": 12022,
+            "female": 12466,
+            "total": 24488
+          }
+        }
+      },
+      {
+        "code": "47301",
+        "name": "国頭村",
+        "votes": {
+          "下地幹郎": 173,
+          "佐喜眞淳": 1458,
+          "玉城康裕": 1044
+        },
+        "valid": 2675,
+        "invalid": 39,
+        "turnout": {
+          "electors": {
+            "male": 1972,
+            "female": 1841,
+            "total": 3813
+          },
+          "voters": {
+            "male": 1408,
+            "female": 1305,
+            "total": 2713
+          }
+        }
+      },
+      {
+        "code": "47302",
+        "name": "大宜味村",
+        "votes": {
+          "下地幹郎": 79,
+          "佐喜眞淳": 693,
+          "玉城康裕": 1175
+        },
+        "valid": 1947,
+        "invalid": 17,
+        "turnout": {
+          "electors": {
+            "male": 1412,
+            "female": 1213,
+            "total": 2625
+          },
+          "voters": {
+            "male": 1051,
+            "female": 913,
+            "total": 1964
+          }
+        }
+      },
+      {
+        "code": "47303",
+        "name": "東村",
+        "votes": {
+          "下地幹郎": 68,
+          "佐喜眞淳": 593,
+          "玉城康裕": 542
+        },
+        "valid": 1203,
+        "invalid": 22,
+        "turnout": {
+          "electors": {
+            "male": 807,
+            "female": 661,
+            "total": 1468
+          },
+          "voters": {
+            "male": 662,
+            "female": 563,
+            "total": 1225
+          }
+        }
+      },
+      {
+        "code": "47306",
+        "name": "今帰仁村",
+        "votes": {
+          "下地幹郎": 314,
+          "佐喜眞淳": 1614,
+          "玉城康裕": 2731
+        },
+        "valid": 4659,
+        "invalid": 32,
+        "turnout": {
+          "electors": {
+            "male": 3899,
+            "female": 3720,
+            "total": 7619
+          },
+          "voters": {
+            "male": 2393,
+            "female": 2298,
+            "total": 4691
+          }
+        }
+      },
+      {
+        "code": "47308",
+        "name": "本部町",
+        "votes": {
+          "下地幹郎": 393,
+          "佐喜眞淳": 3299,
+          "玉城康裕": 3701
+        },
+        "valid": 7393,
+        "invalid": 78,
+        "turnout": {
+          "electors": {
+            "male": 5421,
+            "female": 5218,
+            "total": 10639
+          },
+          "voters": {
+            "male": 3816,
+            "female": 3653,
+            "total": 7469
+          }
+        }
+      },
+      {
+        "code": "47311",
+        "name": "恩納村",
+        "votes": {
+          "下地幹郎": 299,
+          "佐喜眞淳": 2623,
+          "玉城康裕": 2759
+        },
+        "valid": 5681,
+        "invalid": 73,
+        "turnout": {
+          "electors": {
+            "male": 4334,
+            "female": 4233,
+            "total": 8567
+          },
+          "voters": {
+            "male": 2924,
+            "female": 2830,
+            "total": 5754
+          }
+        }
+      },
+      {
+        "code": "47313",
+        "name": "宜野座村",
+        "votes": {
+          "下地幹郎": 175,
+          "佐喜眞淳": 1701,
+          "玉城康裕": 1774
+        },
+        "valid": 3650,
+        "invalid": 38,
+        "turnout": {
+          "electors": {
+            "male": 2424,
+            "female": 2368,
+            "total": 4792
+          },
+          "voters": {
+            "male": 1863,
+            "female": 1825,
+            "total": 3688
+          }
+        }
+      },
+      {
+        "code": "47314",
+        "name": "金武町",
+        "votes": {
+          "下地幹郎": 216,
+          "佐喜眞淳": 2390,
+          "玉城康裕": 2242
+        },
+        "valid": 4848,
+        "invalid": 33,
+        "turnout": {
+          "electors": {
+            "male": 4481,
+            "female": 4533,
+            "total": 9014
+          },
+          "voters": {
+            "male": 2429,
+            "female": 2452,
+            "total": 4881
+          }
+        }
+      },
+      {
+        "code": "47315",
+        "name": "伊江村",
+        "votes": {
+          "下地幹郎": 148,
+          "佐喜眞淳": 1117,
+          "玉城康裕": 1489
+        },
+        "valid": 2754,
+        "invalid": 40,
+        "turnout": {
+          "electors": {
+            "male": 1852,
+            "female": 1792,
+            "total": 3644
+          },
+          "voters": {
+            "male": 1425,
+            "female": 1369,
+            "total": 2794
+          }
+        }
+      },
+      {
+        "code": "47324",
+        "name": "読谷村",
+        "votes": {
+          "下地幹郎": 1086,
+          "佐喜眞淳": 7462,
+          "玉城康裕": 11038
+        },
+        "valid": 19586,
+        "invalid": 256,
+        "turnout": {
+          "electors": {
+            "male": 15810,
+            "female": 16792,
+            "total": 32602
+          },
+          "voters": {
+            "male": 9517,
+            "female": 10326,
+            "total": 19843
+          }
+        }
+      },
+      {
+        "code": "47325",
+        "name": "嘉手納町",
+        "votes": {
+          "下地幹郎": 284,
+          "佐喜眞淳": 2581,
+          "玉城康裕": 2992
+        },
+        "valid": 5857,
+        "invalid": 49,
+        "turnout": {
+          "electors": {
+            "male": 5021,
+            "female": 5452,
+            "total": 10473
+          },
+          "voters": {
+            "male": 2784,
+            "female": 3122,
+            "total": 5906
+          }
+        }
+      },
+      {
+        "code": "47326",
+        "name": "北谷町",
+        "votes": {
+          "下地幹郎": 797,
+          "佐喜眞淳": 5283,
+          "玉城康裕": 7103
+        },
+        "valid": 13183,
+        "invalid": 157,
+        "turnout": {
+          "electors": {
+            "male": 10279,
+            "female": 11749,
+            "total": 22028
+          },
+          "voters": {
+            "male": 6164,
+            "female": 7177,
+            "total": 13341
+          }
+        }
+      },
+      {
+        "code": "47327",
+        "name": "北中城村",
+        "votes": {
+          "下地幹郎": 428,
+          "佐喜眞淳": 3072,
+          "玉城康裕": 5045
+        },
+        "valid": 8545,
+        "invalid": 83,
+        "turnout": {
+          "electors": {
+            "male": 6596,
+            "female": 7330,
+            "total": 13926
+          },
+          "voters": {
+            "male": 4045,
+            "female": 4583,
+            "total": 8628
+          }
+        }
+      },
+      {
+        "code": "47328",
+        "name": "中城村",
+        "votes": {
+          "下地幹郎": 594,
+          "佐喜眞淳": 4461,
+          "玉城康裕": 5892
+        },
+        "valid": 10947,
+        "invalid": 119,
+        "turnout": {
+          "electors": {
+            "male": 8467,
+            "female": 8681,
+            "total": 17148
+          },
+          "voters": {
+            "male": 5322,
+            "female": 5744,
+            "total": 11066
+          }
+        }
+      },
+      {
+        "code": "47329",
+        "name": "西原町",
+        "votes": {
+          "下地幹郎": 1304,
+          "佐喜眞淳": 6430,
+          "玉城康裕": 10016
+        },
+        "valid": 17750,
+        "invalid": 213,
+        "turnout": {
+          "electors": {
+            "male": 13924,
+            "female": 14124,
+            "total": 28048
+          },
+          "voters": {
+            "male": 8632,
+            "female": 9331,
+            "total": 17963
+          }
+        }
+      },
+      {
+        "code": "47348",
+        "name": "与那原町",
+        "votes": {
+          "下地幹郎": 565,
+          "佐喜眞淳": 3359,
+          "玉城康裕": 4618
+        },
+        "valid": 8542,
+        "invalid": 68,
+        "turnout": {
+          "electors": {
+            "male": 7336,
+            "female": 7948,
+            "total": 15284
+          },
+          "voters": {
+            "male": 4082,
+            "female": 4528,
+            "total": 8610
+          }
+        }
+      },
+      {
+        "code": "47350",
+        "name": "南風原町",
+        "votes": {
+          "下地幹郎": 1356,
+          "佐喜眞淳": 6815,
+          "玉城康裕": 10416
+        },
+        "valid": 18587,
+        "invalid": 213,
+        "turnout": {
+          "electors": {
+            "male": 14783,
+            "female": 15817,
+            "total": 30600
+          },
+          "voters": {
+            "male": 8883,
+            "female": 9917,
+            "total": 18800
+          }
+        }
+      },
+      {
+        "code": "47353",
+        "name": "渡嘉敷村",
+        "votes": {
+          "下地幹郎": 67,
+          "佐喜眞淳": 196,
+          "玉城康裕": 201
+        },
+        "valid": 464,
+        "invalid": 12,
+        "turnout": {
+          "electors": {
+            "male": 307,
+            "female": 249,
+            "total": 556
+          },
+          "voters": {
+            "male": 260,
+            "female": 216,
+            "total": 476
+          }
+        }
+      },
+      {
+        "code": "47354",
+        "name": "座間味村",
+        "votes": {
+          "下地幹郎": 45,
+          "佐喜眞淳": 280,
+          "玉城康裕": 311
+        },
+        "valid": 636,
+        "invalid": 16,
+        "turnout": {
+          "electors": {
+            "male": 395,
+            "female": 339,
+            "total": 734
+          },
+          "voters": {
+            "male": 348,
+            "female": 304,
+            "total": 652
+          }
+        }
+      },
+      {
+        "code": "47355",
+        "name": "粟国村",
+        "votes": {
+          "下地幹郎": 91,
+          "佐喜眞淳": 151,
+          "玉城康裕": 170
+        },
+        "valid": 412,
+        "invalid": 14,
+        "turnout": {
+          "electors": {
+            "male": 324,
+            "female": 253,
+            "total": 577
+          },
+          "voters": {
+            "male": 254,
+            "female": 172,
+            "total": 426
+          }
+        }
+      },
+      {
+        "code": "47356",
+        "name": "渡名喜村",
+        "votes": {
+          "下地幹郎": 7,
+          "佐喜眞淳": 125,
+          "玉城康裕": 98
+        },
+        "valid": 230,
+        "invalid": 5,
+        "turnout": {
+          "electors": {
+            "male": 169,
+            "female": 129,
+            "total": 298
+          },
+          "voters": {
+            "male": 135,
+            "female": 100,
+            "total": 235
+          }
+        }
+      },
+      {
+        "code": "47357",
+        "name": "南大東村",
+        "votes": {
+          "下地幹郎": 31,
+          "佐喜眞淳": 413,
+          "玉城康裕": 181
+        },
+        "valid": 625,
+        "invalid": 0,
+        "turnout": {
+          "electors": {
+            "male": 569,
+            "female": 383,
+            "total": 952
+          },
+          "voters": {
+            "male": 378,
+            "female": 247,
+            "total": 625
+          }
+        }
+      },
+      {
+        "code": "47358",
+        "name": "北大東村",
+        "votes": {
+          "下地幹郎": 27,
+          "佐喜眞淳": 260,
+          "玉城康裕": 102
+        },
+        "valid": 389,
+        "invalid": 1,
+        "turnout": {
+          "electors": {
+            "male": 258,
+            "female": 182,
+            "total": 440
+          },
+          "voters": {
+            "male": 234,
+            "female": 156,
+            "total": 390
+          }
+        }
+      },
+      {
+        "code": "47359",
+        "name": "伊平屋村",
+        "votes": {
+          "下地幹郎": 44,
+          "佐喜眞淳": 449,
+          "玉城康裕": 337
+        },
+        "valid": 830,
+        "invalid": 7,
+        "turnout": {
+          "electors": {
+            "male": 537,
+            "female": 439,
+            "total": 976
+          },
+          "voters": {
+            "male": 472,
+            "female": 366,
+            "total": 838
+          }
+        }
+      },
+      {
+        "code": "47360",
+        "name": "伊是名村",
+        "votes": {
+          "下地幹郎": 114,
+          "佐喜眞淳": 450,
+          "玉城康裕": 374
+        },
+        "valid": 938,
+        "invalid": 15,
+        "turnout": {
+          "electors": {
+            "male": 573,
+            "female": 466,
+            "total": 1039
+          },
+          "voters": {
+            "male": 530,
+            "female": 423,
+            "total": 953
+          }
+        }
+      },
+      {
+        "code": "47361",
+        "name": "久米島町",
+        "votes": {
+          "下地幹郎": 518,
+          "佐喜眞淳": 1791,
+          "玉城康裕": 1011
+        },
+        "valid": 3320,
+        "invalid": 19,
+        "turnout": {
+          "electors": {
+            "male": 3254,
+            "female": 2840,
+            "total": 6094
+          },
+          "voters": {
+            "male": 1773,
+            "female": 1566,
+            "total": 3339
+          }
+        }
+      },
+      {
+        "code": "47362",
+        "name": "八重瀬町",
+        "votes": {
+          "下地幹郎": 1136,
+          "佐喜眞淳": 6132,
+          "玉城康裕": 8215
+        },
+        "valid": 15483,
+        "invalid": 209,
+        "turnout": {
+          "electors": {
+            "male": 12143,
+            "female": 12579,
+            "total": 24722
+          },
+          "voters": {
+            "male": 7648,
+            "female": 8044,
+            "total": 15692
+          }
+        }
+      },
+      {
+        "code": "47375",
+        "name": "多良間村",
+        "votes": {
+          "下地幹郎": 98,
+          "佐喜眞淳": 322,
+          "玉城康裕": 127
+        },
+        "valid": 547,
+        "invalid": 7,
+        "turnout": {
+          "electors": {
+            "male": 457,
+            "female": 366,
+            "total": 823
+          },
+          "voters": {
+            "male": 319,
+            "female": 235,
+            "total": 554
+          }
+        }
+      },
+      {
+        "code": "47381",
+        "name": "竹富町",
+        "votes": {
+          "下地幹郎": 240,
+          "佐喜眞淳": 906,
+          "玉城康裕": 985
+        },
+        "valid": 2131,
+        "invalid": 22,
+        "turnout": {
+          "electors": {
+            "male": 1748,
+            "female": 1668,
+            "total": 3416
+          },
+          "voters": {
+            "male": 1110,
+            "female": 1043,
+            "total": 2153
+          }
+        }
+      },
+      {
+        "code": "47382",
+        "name": "与那国町",
+        "votes": {
+          "下地幹郎": 88,
+          "佐喜眞淳": 395,
+          "玉城康裕": 318
+        },
+        "valid": 801,
+        "invalid": 12,
+        "turnout": {
+          "electors": {
+            "male": 741,
+            "female": 591,
+            "total": 1332
+          },
+          "voters": {
+            "male": 462,
+            "female": 351,
+            "total": 813
+          }
+        }
+      }
+    ]
+  },
+  "sources": [
+    "nenpou-r7",
+    "2022-kaihyo",
+    "2022-touhyo",
+    "soumu-2022"
+  ]
+}

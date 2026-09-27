@@ -1,0 +1,45 @@
+{
+  "pref": "47",
+  "n": 4,
+  "date": "1982-11-14",
+  "notice": "1982-10-20",
+  "reason": "任期満了",
+  "turnout": {
+    "electors": {
+      "male": 349570,
+      "female": 373880,
+      "total": 723450
+    },
+    "voters": {
+      "male": 280168,
+      "female": 311071,
+      "total": 591239
+    }
+  },
+  "candidates": [
+    {
+      "id": "西銘順治",
+      "name": "西銘順治",
+      "age": 61,
+      "status": "現",
+      "occupation": "沖縄県知事",
+      "party": "無所属",
+      "votes": 299022,
+      "elected": true
+    },
+    {
+      "id": "喜屋武真栄",
+      "name": "喜屋武真栄",
+      "age": 70,
+      "status": "新",
+      "occupation": "団体役員",
+      "party": "知事選革新共闘",
+      "votes": 285707,
+      "elected": false
+    }
+  ],
+  "municipalities": null,
+  "sources": [
+    "nenpou-r7"
+  ]
+}

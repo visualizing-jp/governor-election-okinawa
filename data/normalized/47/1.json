@@ -1,0 +1,45 @@
+{
+  "pref": "47",
+  "n": 1,
+  "date": "1972-06-25",
+  "notice": "1972-05-31",
+  "reason": "本土復帰に伴う選挙",
+  "turnout": {
+    "electors": {
+      "male": 267346,
+      "female": 315408,
+      "total": 582754
+    },
+    "voters": {
+      "male": 202341,
+      "female": 242401,
+      "total": 444742
+    }
+  },
+  "candidates": [
+    {
+      "id": "屋良朝苗",
+      "name": "屋良朝苗",
+      "age": 69,
+      "status": "現",
+      "occupation": "沖縄県知事",
+      "party": "革新共斗会議",
+      "votes": 251230,
+      "elected": true
+    },
+    {
+      "id": "大田政作",
+      "name": "大田政作",
+      "age": 68,
+      "status": "新",
+      "occupation": "弁護士",
+      "party": "自由民主党",
+      "votes": 177780,
+      "elected": false
+    }
+  ],
+  "municipalities": null,
+  "sources": [
+    "nenpou-r7"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "pref": "47",
+  "n": 6,
+  "date": "1990-11-18",
+  "notice": "1990-10-29",
+  "reason": "任期満了",
+  "turnout": {
+    "electors": {
+      "male": 401622,
+      "female": 426687,
+      "total": 828309
+    },
+    "voters": {
+      "male": 297695,
+      "female": 338299,
+      "total": 635994
+    }
+  },
+  "candidates": [
+    {
+      "id": "大田昌秀",
+      "name": "大田昌秀",
+      "age": 65,
+      "status": "新",
+      "occupation": "無職",
+      "party": "知事選革新共闘会議",
+      "votes": 330982,
+      "elected": true
+    },
+    {
+      "id": "西銘順治",
+      "name": "西銘順治",
+      "age": 69,
+      "status": "現",
+      "occupation": "沖縄県知事",
+      "party": "無所属",
+      "votes": 300917,
+      "elected": false
+    }
+  ],
+  "municipalities": null,
+  "sources": [
+    "nenpou-r7"
+  ]
+}

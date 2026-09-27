@@ -1,0 +1,1003 @@
+{
+  "pref": "47",
+  "n": 10,
+  "date": "2006-11-19",
+  "notice": "2006-11-02",
+  "reason": "任期満了",
+  "turnout": {
+    "electors": {
+      "male": 503914,
+      "female": 532829,
+      "total": 1036743
+    },
+    "voters": {
+      "male": 317707,
+      "female": 351455,
+      "total": 669162
+    }
+  },
+  "candidates": [
+    {
+      "id": "仲井眞弘多",
+      "name": "仲井眞弘多",
+      "age": 67,
+      "status": "新",
+      "occupation": "無職",
+      "party": "無所属",
+      "votes": 347303,
+      "elected": true
+    },
+    {
+      "id": "糸数慶子",
+      "name": "糸数慶子",
+      "age": 59,
+      "status": "新",
+      "occupation": "無職",
+      "party": "無所属",
+      "votes": 309985,
+      "elected": false
+    },
+    {
+      "id": "屋良朝助",
+      "name": "屋良朝助",
+      "age": 54,
+      "status": "新",
+      "occupation": "アリスTシャツセンター代表",
+      "party": "琉球独立党",
+      "votes": 6220,
+      "elected": false
+    }
+  ],
+  "municipalities": {
+    "boundary": "2006",
+    "rows": [
+      {
+        "code": "47201",
+        "name": "那覇市",
+        "votes": {
+          "糸数慶子": 73103,
+          "屋良朝助": 1576,
+          "仲井眞弘多": 80715
+        },
+        "valid": 155394,
+        "invalid": 1274,
+        "turnout": {
+          "electors": {
+            "male": 113281,
+            "female": 126047,
+            "total": 239328
+          },
+          "voters": {
+            "male": 72467,
+            "female": 84204,
+            "total": 156671
+          }
+        }
+      },
+      {
+        "code": "47205",
+        "name": "宜野湾市",
+        "votes": {
+          "糸数慶子": 20138,
+          "屋良朝助": 415,
+          "仲井眞弘多": 21944
+        },
+        "valid": 42497,
+        "invalid": 417,
+        "turnout": {
+          "electors": {
+            "male": 32346,
+            "female": 34639,
+            "total": 66985
+          },
+          "voters": {
+            "male": 20092,
+            "female": 22822,
+            "total": 42914
+          }
+        }
+      },
+      {
+        "code": "47207",
+        "name": "石垣市",
+        "votes": {
+          "糸数慶子": 9333,
+          "屋良朝助": 202,
+          "仲井眞弘多": 9925
+        },
+        "valid": 19460,
+        "invalid": 293,
+        "turnout": {
+          "electors": {
+            "male": 17415,
+            "female": 17805,
+            "total": 35220
+          },
+          "voters": {
+            "male": 9674,
+            "female": 10079,
+            "total": 19753
+          }
+        }
+      },
+      {
+        "code": "47208",
+        "name": "浦添市",
+        "votes": {
+          "糸数慶子": 24816,
+          "屋良朝助": 499,
+          "仲井眞弘多": 26499
+        },
+        "valid": 51814,
+        "invalid": 394,
+        "turnout": {
+          "electors": {
+            "male": 38279,
+            "female": 40838,
+            "total": 79117
+          },
+          "voters": {
+            "male": 24571,
+            "female": 27643,
+            "total": 52214
+          }
+        }
+      },
+      {
+        "code": "47209",
+        "name": "名護市",
+        "votes": {
+          "糸数慶子": 12537,
+          "屋良朝助": 234,
+          "仲井眞弘多": 16490
+        },
+        "valid": 29261,
+        "invalid": 169,
+        "turnout": {
+          "electors": {
+            "male": 21363,
+            "female": 22120,
+            "total": 43483
+          },
+          "voters": {
+            "male": 14229,
+            "female": 15201,
+            "total": 29430
+          }
+        }
+      },
+      {
+        "code": "47210",
+        "name": "糸満市",
+        "votes": {
+          "糸数慶子": 11920,
+          "屋良朝助": 315,
+          "仲井眞弘多": 14013
+        },
+        "valid": 26248,
+        "invalid": 198,
+        "turnout": {
+          "electors": {
+            "male": 20915,
+            "female": 21031,
+            "total": 41946
+          },
+          "voters": {
+            "male": 12967,
+            "female": 13479,
+            "total": 26446
+          }
+        }
+      },
+      {
+        "code": "47211",
+        "name": "沖縄市",
+        "votes": {
+          "糸数慶子": 26395,
+          "屋良朝助": 575,
+          "仲井眞弘多": 31492
+        },
+        "valid": 58462,
+        "invalid": 475,
+        "turnout": {
+          "electors": {
+            "male": 45570,
+            "female": 50677,
+            "total": 96247
+          },
+          "voters": {
+            "male": 27165,
+            "female": 31772,
+            "total": 58937
+          }
+        }
+      },
+      {
+        "code": "47212",
+        "name": "豊見城市",
+        "votes": {
+          "糸数慶子": 12013,
+          "屋良朝助": 206,
+          "仲井眞弘多": 11827
+        },
+        "valid": 24046,
+        "invalid": 169,
+        "turnout": {
+          "electors": {
+            "male": 19105,
+            "female": 20242,
+            "total": 39347
+          },
+          "voters": {
+            "male": 11467,
+            "female": 12750,
+            "total": 24217
+          }
+        }
+      },
+      {
+        "code": "47213",
+        "name": "うるま市",
+        "votes": {
+          "糸数慶子": 23138,
+          "屋良朝助": 517,
+          "仲井眞弘多": 30029
+        },
+        "valid": 53684,
+        "invalid": 475,
+        "turnout": {
+          "electors": {
+            "male": 43028,
+            "female": 43571,
+            "total": 86599
+          },
+          "voters": {
+            "male": 26109,
+            "female": 28050,
+            "total": 54159
+          }
+        }
+      },
+      {
+        "code": "47214",
+        "name": "宮古島市",
+        "votes": {
+          "糸数慶子": 12702,
+          "屋良朝助": 140,
+          "仲井眞弘多": 13261
+        },
+        "valid": 26103,
+        "invalid": 203,
+        "turnout": {
+          "electors": {
+            "male": 20967,
+            "female": 21758,
+            "total": 42725
+          },
+          "voters": {
+            "male": 12685,
+            "female": 13621,
+            "total": 26306
+          }
+        }
+      },
+      {
+        "code": "47215",
+        "name": "南城市",
+        "votes": {
+          "糸数慶子": 9691,
+          "屋良朝助": 186,
+          "仲井眞弘多": 11262
+        },
+        "valid": 21139,
+        "invalid": 259,
+        "turnout": {
+          "electors": {
+            "male": 15483,
+            "female": 15575,
+            "total": 31058
+          },
+          "voters": {
+            "male": 10423,
+            "female": 10975,
+            "total": 21398
+          }
+        }
+      },
+      {
+        "code": "47301",
+        "name": "国頭村",
+        "votes": {
+          "糸数慶子": 928,
+          "屋良朝助": 13,
+          "仲井眞弘多": 2214
+        },
+        "valid": 3155,
+        "invalid": 24,
+        "turnout": {
+          "electors": {
+            "male": 2232,
+            "female": 2247,
+            "total": 4479
+          },
+          "voters": {
+            "male": 1567,
+            "female": 1612,
+            "total": 3179
+          }
+        }
+      },
+      {
+        "code": "47302",
+        "name": "大宜味村",
+        "votes": {
+          "糸数慶子": 1144,
+          "屋良朝助": 8,
+          "仲井眞弘多": 732
+        },
+        "valid": 1884,
+        "invalid": 14,
+        "turnout": {
+          "electors": {
+            "male": 1442,
+            "female": 1416,
+            "total": 2858
+          },
+          "voters": {
+            "male": 961,
+            "female": 937,
+            "total": 1898
+          }
+        }
+      },
+      {
+        "code": "47303",
+        "name": "東村",
+        "votes": {
+          "糸数慶子": 449,
+          "屋良朝助": 9,
+          "仲井眞弘多": 795
+        },
+        "valid": 1253,
+        "invalid": 8,
+        "turnout": {
+          "electors": {
+            "male": 866,
+            "female": 731,
+            "total": 1597
+          },
+          "voters": {
+            "male": 652,
+            "female": 609,
+            "total": 1261
+          }
+        }
+      },
+      {
+        "code": "47306",
+        "name": "今帰仁村",
+        "votes": {
+          "糸数慶子": 2457,
+          "屋良朝助": 37,
+          "仲井眞弘多": 2445
+        },
+        "valid": 4939,
+        "invalid": 61,
+        "turnout": {
+          "electors": {
+            "male": 3719,
+            "female": 3674,
+            "total": 7393
+          },
+          "voters": {
+            "male": 2436,
+            "female": 2564,
+            "total": 5000
+          }
+        }
+      },
+      {
+        "code": "47308",
+        "name": "本部町",
+        "votes": {
+          "糸数慶子": 2645,
+          "屋良朝助": 42,
+          "仲井眞弘多": 4293
+        },
+        "valid": 6980,
+        "invalid": 71,
+        "turnout": {
+          "electors": {
+            "male": 5661,
+            "female": 5678,
+            "total": 11339
+          },
+          "voters": {
+            "male": 3462,
+            "female": 3589,
+            "total": 7051
+          }
+        }
+      },
+      {
+        "code": "47311",
+        "name": "恩納村",
+        "votes": {
+          "糸数慶子": 2258,
+          "屋良朝助": 62,
+          "仲井眞弘多": 2795
+        },
+        "valid": 5115,
+        "invalid": 26,
+        "turnout": {
+          "electors": {
+            "male": 4076,
+            "female": 3979,
+            "total": 8055
+          },
+          "voters": {
+            "male": 2517,
+            "female": 2624,
+            "total": 5141
+          }
+        }
+      },
+      {
+        "code": "47313",
+        "name": "宜野座村",
+        "votes": {
+          "糸数慶子": 1292,
+          "屋良朝助": 20,
+          "仲井眞弘多": 1588
+        },
+        "valid": 2900,
+        "invalid": 18,
+        "turnout": {
+          "electors": {
+            "male": 2039,
+            "female": 2019,
+            "total": 4058
+          },
+          "voters": {
+            "male": 1443,
+            "female": 1475,
+            "total": 2918
+          }
+        }
+      },
+      {
+        "code": "47314",
+        "name": "金武町",
+        "votes": {
+          "糸数慶子": 1822,
+          "屋良朝助": 44,
+          "仲井眞弘多": 3393
+        },
+        "valid": 5259,
+        "invalid": 42,
+        "turnout": {
+          "electors": {
+            "male": 4098,
+            "female": 4269,
+            "total": 8367
+          },
+          "voters": {
+            "male": 2529,
+            "female": 2772,
+            "total": 5301
+          }
+        }
+      },
+      {
+        "code": "47315",
+        "name": "伊江村",
+        "votes": {
+          "糸数慶子": 809,
+          "屋良朝助": 15,
+          "仲井眞弘多": 1760
+        },
+        "valid": 2584,
+        "invalid": 20,
+        "turnout": {
+          "electors": {
+            "male": 2018,
+            "female": 2003,
+            "total": 4021
+          },
+          "voters": {
+            "male": 1265,
+            "female": 1339,
+            "total": 2604
+          }
+        }
+      },
+      {
+        "code": "47324",
+        "name": "読谷村",
+        "votes": {
+          "糸数慶子": 10157,
+          "屋良朝助": 155,
+          "仲井眞弘多": 8702
+        },
+        "valid": 19014,
+        "invalid": 131,
+        "turnout": {
+          "electors": {
+            "male": 13851,
+            "female": 14491,
+            "total": 28342
+          },
+          "voters": {
+            "male": 9187,
+            "female": 9958,
+            "total": 19145
+          }
+        }
+      },
+      {
+        "code": "47325",
+        "name": "嘉手納町",
+        "votes": {
+          "糸数慶子": 2984,
+          "屋良朝助": 75,
+          "仲井眞弘多": 4027
+        },
+        "valid": 7086,
+        "invalid": 68,
+        "turnout": {
+          "electors": {
+            "male": 4975,
+            "female": 5336,
+            "total": 10311
+          },
+          "voters": {
+            "male": 3331,
+            "female": 3823,
+            "total": 7154
+          }
+        }
+      },
+      {
+        "code": "47326",
+        "name": "北谷町",
+        "votes": {
+          "糸数慶子": 6292,
+          "屋良朝助": 147,
+          "仲井眞弘多": 6005
+        },
+        "valid": 12444,
+        "invalid": 102,
+        "turnout": {
+          "electors": {
+            "male": 9381,
+            "female": 10383,
+            "total": 19764
+          },
+          "voters": {
+            "male": 5873,
+            "female": 6673,
+            "total": 12546
+          }
+        }
+      },
+      {
+        "code": "47327",
+        "name": "北中城村",
+        "votes": {
+          "糸数慶子": 4112,
+          "屋良朝助": 74,
+          "仲井眞弘多": 3644
+        },
+        "valid": 7830,
+        "invalid": 58,
+        "turnout": {
+          "electors": {
+            "male": 5701,
+            "female": 6281,
+            "total": 11982
+          },
+          "voters": {
+            "male": 3748,
+            "female": 4140,
+            "total": 7888
+          }
+        }
+      },
+      {
+        "code": "47328",
+        "name": "中城村",
+        "votes": {
+          "糸数慶子": 3983,
+          "屋良朝助": 67,
+          "仲井眞弘多": 4052
+        },
+        "valid": 8102,
+        "invalid": 71,
+        "turnout": {
+          "electors": {
+            "male": 6257,
+            "female": 6004,
+            "total": 12261
+          },
+          "voters": {
+            "male": 4052,
+            "female": 4128,
+            "total": 8180
+          }
+        }
+      },
+      {
+        "code": "47329",
+        "name": "西原町",
+        "votes": {
+          "糸数慶子": 8888,
+          "屋良朝助": 156,
+          "仲井眞弘多": 7844
+        },
+        "valid": 16888,
+        "invalid": 150,
+        "turnout": {
+          "electors": {
+            "male": 12378,
+            "female": 12442,
+            "total": 24820
+          },
+          "voters": {
+            "male": 8244,
+            "female": 8794,
+            "total": 17038
+          }
+        }
+      },
+      {
+        "code": "47348",
+        "name": "与那原町",
+        "votes": {
+          "糸数慶子": 3784,
+          "屋良朝助": 75,
+          "仲井眞弘多": 3882
+        },
+        "valid": 7741,
+        "invalid": 58,
+        "turnout": {
+          "electors": {
+            "male": 5606,
+            "female": 6069,
+            "total": 11675
+          },
+          "voters": {
+            "male": 3606,
+            "female": 4193,
+            "total": 7799
+          }
+        }
+      },
+      {
+        "code": "47350",
+        "name": "南風原町",
+        "votes": {
+          "糸数慶子": 7994,
+          "屋良朝助": 132,
+          "仲井眞弘多": 7874
+        },
+        "valid": 16000,
+        "invalid": 122,
+        "turnout": {
+          "electors": {
+            "male": 11923,
+            "female": 12415,
+            "total": 24338
+          },
+          "voters": {
+            "male": 7704,
+            "female": 8418,
+            "total": 16122
+          }
+        }
+      },
+      {
+        "code": "47353",
+        "name": "渡嘉敷村",
+        "votes": {
+          "糸数慶子": 130,
+          "屋良朝助": 5,
+          "仲井眞弘多": 339
+        },
+        "valid": 474,
+        "invalid": 11,
+        "turnout": {
+          "electors": {
+            "male": 308,
+            "female": 294,
+            "total": 602
+          },
+          "voters": {
+            "male": 256,
+            "female": 229,
+            "total": 485
+          }
+        }
+      },
+      {
+        "code": "47354",
+        "name": "座間味村",
+        "votes": {
+          "糸数慶子": 350,
+          "屋良朝助": 8,
+          "仲井眞弘多": 273
+        },
+        "valid": 631,
+        "invalid": 7,
+        "turnout": {
+          "electors": {
+            "male": 437,
+            "female": 401,
+            "total": 838
+          },
+          "voters": {
+            "male": 335,
+            "female": 303,
+            "total": 638
+          }
+        }
+      },
+      {
+        "code": "47355",
+        "name": "粟国村",
+        "votes": {
+          "糸数慶子": 143,
+          "屋良朝助": 3,
+          "仲井眞弘多": 310
+        },
+        "valid": 456,
+        "invalid": 10,
+        "turnout": {
+          "electors": {
+            "male": 376,
+            "female": 350,
+            "total": 726
+          },
+          "voters": {
+            "male": 253,
+            "female": 213,
+            "total": 466
+          }
+        }
+      },
+      {
+        "code": "47356",
+        "name": "渡名喜村",
+        "votes": {
+          "糸数慶子": 96,
+          "屋良朝助": 1,
+          "仲井眞弘多": 199
+        },
+        "valid": 296,
+        "invalid": 9,
+        "turnout": {
+          "electors": {
+            "male": 226,
+            "female": 195,
+            "total": 421
+          },
+          "voters": {
+            "male": 169,
+            "female": 136,
+            "total": 305
+          }
+        }
+      },
+      {
+        "code": "47357",
+        "name": "南大東村",
+        "votes": {
+          "糸数慶子": 319,
+          "屋良朝助": 8,
+          "仲井眞弘多": 490
+        },
+        "valid": 817,
+        "invalid": 6,
+        "turnout": {
+          "electors": {
+            "male": 620,
+            "female": 459,
+            "total": 1079
+          },
+          "voters": {
+            "male": 476,
+            "female": 347,
+            "total": 823
+          }
+        }
+      },
+      {
+        "code": "47358",
+        "name": "北大東村",
+        "votes": {
+          "糸数慶子": 91,
+          "屋良朝助": 2,
+          "仲井眞弘多": 254
+        },
+        "valid": 347,
+        "invalid": 5,
+        "turnout": {
+          "electors": {
+            "male": 220,
+            "female": 181,
+            "total": 401
+          },
+          "voters": {
+            "male": 191,
+            "female": 161,
+            "total": 352
+          }
+        }
+      },
+      {
+        "code": "47359",
+        "name": "伊平屋村",
+        "votes": {
+          "糸数慶子": 297,
+          "屋良朝助": 3,
+          "仲井眞弘多": 524
+        },
+        "valid": 824,
+        "invalid": 7,
+        "turnout": {
+          "electors": {
+            "male": 600,
+            "female": 552,
+            "total": 1152
+          },
+          "voters": {
+            "male": 419,
+            "female": 412,
+            "total": 831
+          }
+        }
+      },
+      {
+        "code": "47360",
+        "name": "伊是名村",
+        "votes": {
+          "糸数慶子": 337,
+          "屋良朝助": 11,
+          "仲井眞弘多": 590
+        },
+        "valid": 938,
+        "invalid": 27,
+        "turnout": {
+          "electors": {
+            "male": 736,
+            "female": 665,
+            "total": 1401
+          },
+          "voters": {
+            "male": 503,
+            "female": 462,
+            "total": 965
+          }
+        }
+      },
+      {
+        "code": "47361",
+        "name": "久米島町",
+        "votes": {
+          "糸数慶子": 3208,
+          "屋良朝助": 28,
+          "仲井眞弘多": 1753
+        },
+        "valid": 4989,
+        "invalid": 51,
+        "turnout": {
+          "electors": {
+            "male": 3742,
+            "female": 3392,
+            "total": 7134
+          },
+          "voters": {
+            "male": 2551,
+            "female": 2491,
+            "total": 5042
+          }
+        }
+      },
+      {
+        "code": "47362",
+        "name": "八重瀬町",
+        "votes": {
+          "糸数慶子": 5377,
+          "屋良朝助": 120,
+          "仲井眞弘多": 6946
+        },
+        "valid": 12443,
+        "invalid": 83,
+        "turnout": {
+          "electors": {
+            "male": 9812,
+            "female": 9934,
+            "total": 19746
+          },
+          "voters": {
+            "male": 6066,
+            "female": 6460,
+            "total": 12526
+          }
+        }
+      },
+      {
+        "code": "47375",
+        "name": "多良間村",
+        "votes": {
+          "糸数慶子": 246,
+          "屋良朝助": 1,
+          "仲井眞弘多": 425
+        },
+        "valid": 672,
+        "invalid": 3,
+        "turnout": {
+          "electors": {
+            "male": 519,
+            "female": 443,
+            "total": 962
+          },
+          "voters": {
+            "male": 364,
+            "female": 311,
+            "total": 675
+          }
+        }
+      },
+      {
+        "code": "47381",
+        "name": "竹富町",
+        "votes": {
+          "糸数慶子": 1149,
+          "屋良朝助": 29,
+          "仲井眞弘多": 1221
+        },
+        "valid": 2399,
+        "invalid": 29,
+        "turnout": {
+          "electors": {
+            "male": 1698,
+            "female": 1610,
+            "total": 3308
+          },
+          "voters": {
+            "male": 1212,
+            "female": 1216,
+            "total": 2428
+          }
+        }
+      },
+      {
+        "code": "47382",
+        "name": "与那国町",
+        "votes": {
+          "糸数慶子": 458,
+          "屋良朝助": 5,
+          "仲井眞弘多": 477
+        },
+        "valid": 940,
+        "invalid": 16,
+        "turnout": {
+          "electors": {
+            "male": 645,
+            "female": 613,
+            "total": 1258
+          },
+          "voters": {
+            "male": 486,
+            "female": 470,
+            "total": 956
+          }
+        }
+      }
+    ]
+  },
+  "sources": [
+    "nenpou-r7",
+    "2006-kekka"
+  ]
+}

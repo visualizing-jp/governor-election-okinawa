@@ -1,0 +1,45 @@
+{
+  "pref": "47",
+  "n": 3,
+  "date": "1978-12-10",
+  "notice": "1978-11-15",
+  "reason": "知事の辞職",
+  "turnout": {
+    "electors": {
+      "male": 323781,
+      "female": 350408,
+      "total": 674189
+    },
+    "voters": {
+      "male": 257629,
+      "female": 288001,
+      "total": 545630
+    }
+  },
+  "candidates": [
+    {
+      "id": "西銘順治",
+      "name": "西銘順治",
+      "age": 57,
+      "status": "新",
+      "occupation": "無職",
+      "party": "無所属",
+      "votes": 284049,
+      "elected": true
+    },
+    {
+      "id": "知花英夫",
+      "name": "知花英夫",
+      "age": 69,
+      "status": "新",
+      "occupation": "歯科医師",
+      "party": "無所属",
+      "votes": 257902,
+      "elected": false
+    }
+  ],
+  "municipalities": null,
+  "sources": [
+    "nenpou-r7"
+  ]
+}

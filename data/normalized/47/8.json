@@ -1,0 +1,55 @@
+{
+  "pref": "47",
+  "n": 8,
+  "date": "1998-11-15",
+  "notice": "1998-10-29",
+  "reason": "任期満了",
+  "turnout": {
+    "electors": {
+      "male": 457205,
+      "female": 482340,
+      "total": 939545
+    },
+    "voters": {
+      "male": 341377,
+      "female": 377782,
+      "total": 719159
+    }
+  },
+  "candidates": [
+    {
+      "id": "稲嶺惠一",
+      "name": "稲嶺惠一",
+      "age": 65,
+      "status": "新",
+      "occupation": "沖縄県経営者協会顧問",
+      "party": "無所属",
+      "votes": 374833,
+      "elected": true
+    },
+    {
+      "id": "大田昌秀",
+      "name": "大田昌秀",
+      "age": 73,
+      "status": "現",
+      "occupation": "沖縄県知事",
+      "party": "無所属",
+      "votes": 337369,
+      "elected": false
+    },
+    {
+      "id": "又吉光雄",
+      "name": "又吉光雄",
+      "age": 54,
+      "status": "新",
+      "occupation": "世界経済共同体党代表",
+      "party": "世界経済共同体党",
+      "votes": 2649,
+      "elected": false
+    }
+  ],
+  "municipalities": null,
+  "sources": [
+    "nenpou-r7"
+  ]
+}

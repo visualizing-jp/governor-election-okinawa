@@ -1,0 +1,1319 @@
+{
+  "pref": "47",
+  "n": 9,
+  "date": "2002-11-17",
+  "notice": "2002-10-31",
+  "reason": "任期満了",
+  "turnout": {
+    "electors": {
+      "male": 480798,
+      "female": 506232,
+      "total": 987030
+    },
+    "voters": {
+      "male": 267292,
+      "female": 297459,
+      "total": 564751
+    }
+  },
+  "candidates": [
+    {
+      "id": "稲嶺惠一",
+      "name": "稲嶺惠一",
+      "age": 69,
+      "status": "現",
+      "occupation": "沖縄県知事",
+      "party": "無所属",
+      "votes": 359604,
+      "elected": true
+    },
+    {
+      "id": "吉元政矩",
+      "name": "吉元政矩",
+      "age": 66,
+      "status": "新",
+      "occupation": "沖縄21戦略フォーラム代表",
+      "party": "無所属",
+      "votes": 148401,
+      "elected": false
+    },
+    {
+      "id": "新垣繁信",
+      "name": "新垣繁信",
+      "age": 60,
+      "status": "新",
+      "occupation": "医師",
+      "party": "無所属",
+      "votes": 46230,
+      "elected": false
+    },
+    {
+      "id": "又吉光雄",
+      "name": "又吉光雄",
+      "age": 58,
+      "status": "新",
+      "occupation": "世界経済共同体党代表",
+      "party": "世界経済共同体党",
+      "votes": 4330,
+      "elected": false
+    }
+  ],
+  "municipalities": {
+    "boundary": null,
+    "rows": [
+      {
+        "code": "47201",
+        "name": "那覇市",
+        "votes": {
+          "新垣繁信": 13856,
+          "稲嶺惠一": 79025,
+          "吉元政矩": 32708,
+          "又吉光雄": 733
+        },
+        "valid": 126322,
+        "invalid": 1274,
+        "turnout": {
+          "electors": {
+            "male": 107863,
+            "female": 119896,
+            "total": 227759
+          },
+          "voters": {
+            "male": 58640,
+            "female": 68961,
+            "total": 127601
+          }
+        }
+      },
+      {
+        "code": "47202",
+        "name": "石川市",
+        "votes": {
+          "新垣繁信": 569,
+          "稲嶺惠一": 6522,
+          "吉元政矩": 2427,
+          "又吉光雄": 78
+        },
+        "valid": 9596,
+        "invalid": 81,
+        "turnout": {
+          "electors": {
+            "male": 8110,
+            "female": 8304,
+            "total": 16414
+          },
+          "voters": {
+            "male": 4576,
+            "female": 5101,
+            "total": 9677
+          }
+        }
+      },
+      {
+        "code": "47203",
+        "name": "具志川市",
+        "votes": {
+          "新垣繁信": 1540,
+          "稲嶺惠一": 15995,
+          "吉元政矩": 7177,
+          "又吉光雄": 255
+        },
+        "valid": 24967,
+        "invalid": 339,
+        "turnout": {
+          "electors": {
+            "male": 22420,
+            "female": 23380,
+            "total": 45800
+          },
+          "voters": {
+            "male": 11987,
+            "female": 13319,
+            "total": 25306
+          }
+        }
+      },
+      {
+        "code": "47205",
+        "name": "宜野湾市",
+        "votes": {
+          "新垣繁信": 2378,
+          "稲嶺惠一": 21158,
+          "吉元政矩": 10638,
+          "又吉光雄": 243
+        },
+        "valid": 34417,
+        "invalid": 347,
+        "turnout": {
+          "electors": {
+            "male": 31056,
+            "female": 32970,
+            "total": 64026
+          },
+          "voters": {
+            "male": 16192,
+            "female": 18572,
+            "total": 34764
+          }
+        }
+      },
+      {
+        "code": "47206",
+        "name": "平良市",
+        "votes": {
+          "新垣繁信": 567,
+          "稲嶺惠一": 7898,
+          "吉元政矩": 3870,
+          "又吉光雄": 109
+        },
+        "valid": 12444,
+        "invalid": 86,
+        "turnout": {
+          "electors": {
+            "male": 12462,
+            "female": 13114,
+            "total": 25576
+          },
+          "voters": {
+            "male": 6137,
+            "female": 6393,
+            "total": 12530
+          }
+        }
+      },
+      {
+        "code": "47207",
+        "name": "石垣市",
+        "votes": {
+          "新垣繁信": 758,
+          "稲嶺惠一": 10659,
+          "吉元政矩": 5412,
+          "又吉光雄": 107
+        },
+        "valid": 16936,
+        "invalid": 167,
+        "turnout": {
+          "electors": {
+            "male": 16082,
+            "female": 16426,
+            "total": 32508
+          },
+          "voters": {
+            "male": 8263,
+            "female": 8842,
+            "total": 17105
+          }
+        }
+      },
+      {
+        "code": "47208",
+        "name": "浦添市",
+        "votes": {
+          "新垣繁信": 3379,
+          "稲嶺惠一": 26491,
+          "吉元政矩": 11466,
+          "又吉光雄": 408
+        },
+        "valid": 41744,
+        "invalid": 371,
+        "turnout": {
+          "electors": {
+            "male": 36476,
+            "female": 38925,
+            "total": 75401
+          },
+          "voters": {
+            "male": 19641,
+            "female": 22475,
+            "total": 42116
+          }
+        }
+      },
+      {
+        "code": "47209",
+        "name": "名護市",
+        "votes": {
+          "新垣繁信": 1634,
+          "稲嶺惠一": 16925,
+          "吉元政矩": 6081,
+          "又吉光雄": 185
+        },
+        "valid": 24825,
+        "invalid": 220,
+        "turnout": {
+          "electors": {
+            "male": 20307,
+            "female": 20818,
+            "total": 41125
+          },
+          "voters": {
+            "male": 12144,
+            "female": 12901,
+            "total": 25045
+          }
+        }
+      },
+      {
+        "code": "47210",
+        "name": "糸満市",
+        "votes": {
+          "新垣繁信": 2550,
+          "稲嶺惠一": 15604,
+          "吉元政矩": 4495,
+          "又吉光雄": 198
+        },
+        "valid": 22847,
+        "invalid": 226,
+        "turnout": {
+          "electors": {
+            "male": 20041,
+            "female": 20091,
+            "total": 40132
+          },
+          "voters": {
+            "male": 11194,
+            "female": 11879,
+            "total": 23073
+          }
+        }
+      },
+      {
+        "code": "47211",
+        "name": "沖縄市",
+        "votes": {
+          "新垣繁信": 3461,
+          "稲嶺惠一": 30350,
+          "吉元政矩": 13812,
+          "又吉光雄": 446
+        },
+        "valid": 48069,
+        "invalid": 510,
+        "turnout": {
+          "electors": {
+            "male": 43225,
+            "female": 47399,
+            "total": 90624
+          },
+          "voters": {
+            "male": 22431,
+            "female": 26148,
+            "total": 48579
+          }
+        }
+      },
+      {
+        "code": "47212",
+        "name": "豊見城市",
+        "votes": {
+          "新垣繁信": 3217,
+          "稲嶺惠一": 11901,
+          "吉元政矩": 4247,
+          "又吉光雄": 166
+        },
+        "valid": 19531,
+        "invalid": 143,
+        "turnout": {
+          "electors": {
+            "male": 17866,
+            "female": 18724,
+            "total": 36590
+          },
+          "voters": {
+            "male": 9359,
+            "female": 10315,
+            "total": 19674
+          }
+        }
+      },
+      {
+        "code": "47301",
+        "name": "国頭村",
+        "votes": {
+          "新垣繁信": 152,
+          "稲嶺惠一": 2447,
+          "吉元政矩": 365,
+          "又吉光雄": 26
+        },
+        "valid": 2990,
+        "invalid": 62,
+        "turnout": {
+          "electors": {
+            "male": 2216,
+            "female": 2262,
+            "total": 4478
+          },
+          "voters": {
+            "male": 1476,
+            "female": 1576,
+            "total": 3052
+          }
+        }
+      },
+      {
+        "code": "47302",
+        "name": "大宜味村",
+        "votes": {
+          "新垣繁信": 235,
+          "稲嶺惠一": 887,
+          "吉元政矩": 615,
+          "又吉光雄": 22
+        },
+        "valid": 1759,
+        "invalid": 27,
+        "turnout": {
+          "electors": {
+            "male": 1383,
+            "female": 1391,
+            "total": 2774
+          },
+          "voters": {
+            "male": 838,
+            "female": 948,
+            "total": 1786
+          }
+        }
+      },
+      {
+        "code": "47303",
+        "name": "東村",
+        "votes": {
+          "新垣繁信": 44,
+          "稲嶺惠一": 897,
+          "吉元政矩": 210,
+          "又吉光雄": 3
+        },
+        "valid": 1154,
+        "invalid": 20,
+        "turnout": {
+          "electors": {
+            "male": 836,
+            "female": 703,
+            "total": 1539
+          },
+          "voters": {
+            "male": 605,
+            "female": 569,
+            "total": 1174
+          }
+        }
+      },
+      {
+        "code": "47306",
+        "name": "今帰仁村",
+        "votes": {
+          "新垣繁信": 384,
+          "稲嶺惠一": 3291,
+          "吉元政矩": 1515,
+          "又吉光雄": 75
+        },
+        "valid": 5265,
+        "invalid": 119,
+        "turnout": {
+          "electors": {
+            "male": 3628,
+            "female": 3620,
+            "total": 7248
+          },
+          "voters": {
+            "male": 2638,
+            "female": 2746,
+            "total": 5384
+          }
+        }
+      },
+      {
+        "code": "47308",
+        "name": "本部町",
+        "votes": {
+          "新垣繁信": 271,
+          "稲嶺惠一": 5800,
+          "吉元政矩": 1067,
+          "又吉光雄": 52
+        },
+        "valid": 7190,
+        "invalid": 180,
+        "turnout": {
+          "electors": {
+            "male": 5622,
+            "female": 5530,
+            "total": 11152
+          },
+          "voters": {
+            "male": 3594,
+            "female": 3777,
+            "total": 7371
+          }
+        }
+      },
+      {
+        "code": "47311",
+        "name": "恩納村",
+        "votes": {
+          "新垣繁信": 300,
+          "稲嶺惠一": 3475,
+          "吉元政矩": 1118,
+          "又吉光雄": 44
+        },
+        "valid": 4937,
+        "invalid": 103,
+        "turnout": {
+          "electors": {
+            "male": 3852,
+            "female": 3732,
+            "total": 7584
+          },
+          "voters": {
+            "male": 2461,
+            "female": 2581,
+            "total": 5042
+          }
+        }
+      },
+      {
+        "code": "47313",
+        "name": "宜野座村",
+        "votes": {
+          "新垣繁信": 137,
+          "稲嶺惠一": 1897,
+          "吉元政矩": 652,
+          "又吉光雄": 20
+        },
+        "valid": 2706,
+        "invalid": 62,
+        "turnout": {
+          "electors": {
+            "male": 1913,
+            "female": 1886,
+            "total": 3799
+          },
+          "voters": {
+            "male": 1372,
+            "female": 1396,
+            "total": 2768
+          }
+        }
+      },
+      {
+        "code": "47314",
+        "name": "金武町",
+        "votes": {
+          "新垣繁信": 188,
+          "稲嶺惠一": 4464,
+          "吉元政矩": 978,
+          "又吉光雄": 47
+        },
+        "valid": 5677,
+        "invalid": 194,
+        "turnout": {
+          "electors": {
+            "male": 3954,
+            "female": 4069,
+            "total": 8023
+          },
+          "voters": {
+            "male": 2767,
+            "female": 3104,
+            "total": 5871
+          }
+        }
+      },
+      {
+        "code": "47315",
+        "name": "伊江村",
+        "votes": {
+          "新垣繁信": 111,
+          "稲嶺惠一": 1959,
+          "吉元政矩": 287,
+          "又吉光雄": 18
+        },
+        "valid": 2375,
+        "invalid": 106,
+        "turnout": {
+          "electors": {
+            "male": 2009,
+            "female": 2051,
+            "total": 4060
+          },
+          "voters": {
+            "male": 1202,
+            "female": 1279,
+            "total": 2481
+          }
+        }
+      },
+      {
+        "code": "47322",
+        "name": "与那城町",
+        "votes": {
+          "新垣繁信": 249,
+          "稲嶺惠一": 4214,
+          "吉元政矩": 1441,
+          "又吉光雄": 39
+        },
+        "valid": 5943,
+        "invalid": 76,
+        "turnout": {
+          "electors": {
+            "male": 5256,
+            "female": 4948,
+            "total": 10204
+          },
+          "voters": {
+            "male": 2941,
+            "female": 3078,
+            "total": 6019
+          }
+        }
+      },
+      {
+        "code": "47323",
+        "name": "勝連町",
+        "votes": {
+          "新垣繁信": 254,
+          "稲嶺惠一": 4587,
+          "吉元政矩": 1219,
+          "又吉光雄": 48
+        },
+        "valid": 6108,
+        "invalid": 62,
+        "turnout": {
+          "electors": {
+            "male": 5439,
+            "female": 5096,
+            "total": 10535
+          },
+          "voters": {
+            "male": 2998,
+            "female": 3172,
+            "total": 6170
+          }
+        }
+      },
+      {
+        "code": "47324",
+        "name": "読谷村",
+        "votes": {
+          "新垣繁信": 798,
+          "稲嶺惠一": 8928,
+          "吉元政矩": 5674,
+          "又吉光雄": 84
+        },
+        "valid": 15484,
+        "invalid": 189,
+        "turnout": {
+          "electors": {
+            "male": 13248,
+            "female": 13668,
+            "total": 26916
+          },
+          "voters": {
+            "male": 7499,
+            "female": 8174,
+            "total": 15673
+          }
+        }
+      },
+      {
+        "code": "47325",
+        "name": "嘉手納町",
+        "votes": {
+          "新垣繁信": 313,
+          "稲嶺惠一": 4487,
+          "吉元政矩": 1395,
+          "又吉光雄": 62
+        },
+        "valid": 6257,
+        "invalid": 68,
+        "turnout": {
+          "electors": {
+            "male": 5012,
+            "female": 5317,
+            "total": 10329
+          },
+          "voters": {
+            "male": 2912,
+            "female": 3413,
+            "total": 6325
+          }
+        }
+      },
+      {
+        "code": "47326",
+        "name": "北谷町",
+        "votes": {
+          "新垣繁信": 684,
+          "稲嶺惠一": 6243,
+          "吉元政矩": 3449,
+          "又吉光雄": 86
+        },
+        "valid": 10462,
+        "invalid": 112,
+        "turnout": {
+          "electors": {
+            "male": 8810,
+            "female": 9795,
+            "total": 18605
+          },
+          "voters": {
+            "male": 4920,
+            "female": 5654,
+            "total": 10574
+          }
+        }
+      },
+      {
+        "code": "47327",
+        "name": "北中城村",
+        "votes": {
+          "新垣繁信": 391,
+          "稲嶺惠一": 3811,
+          "吉元政矩": 2340,
+          "又吉光雄": 50
+        },
+        "valid": 6592,
+        "invalid": 79,
+        "turnout": {
+          "electors": {
+            "male": 5409,
+            "female": 6059,
+            "total": 11468
+          },
+          "voters": {
+            "male": 3123,
+            "female": 3548,
+            "total": 6671
+          }
+        }
+      },
+      {
+        "code": "47328",
+        "name": "中城村",
+        "votes": {
+          "新垣繁信": 506,
+          "稲嶺惠一": 3921,
+          "吉元政矩": 2131,
+          "又吉光雄": 58
+        },
+        "valid": 6616,
+        "invalid": 75,
+        "turnout": {
+          "electors": {
+            "male": 5644,
+            "female": 5386,
+            "total": 11030
+          },
+          "voters": {
+            "male": 3283,
+            "female": 3408,
+            "total": 6691
+          }
+        }
+      },
+      {
+        "code": "47329",
+        "name": "西原町",
+        "votes": {
+          "新垣繁信": 1190,
+          "稲嶺惠一": 7996,
+          "吉元政矩": 4686,
+          "又吉光雄": 83
+        },
+        "valid": 13955,
+        "invalid": 121,
+        "turnout": {
+          "electors": {
+            "male": 11784,
+            "female": 11629,
+            "total": 23413
+          },
+          "voters": {
+            "male": 6912,
+            "female": 7165,
+            "total": 14077
+          }
+        }
+      },
+      {
+        "code": "47343",
+        "name": "東風平町",
+        "votes": {
+          "新垣繁信": 618,
+          "稲嶺惠一": 4583,
+          "吉元政矩": 1748,
+          "又吉光雄": 43
+        },
+        "valid": 6992,
+        "invalid": 82,
+        "turnout": {
+          "electors": {
+            "male": 6281,
+            "female": 6397,
+            "total": 12678
+          },
+          "voters": {
+            "male": 3422,
+            "female": 3653,
+            "total": 7075
+          }
+        }
+      },
+      {
+        "code": "47344",
+        "name": "具志頭村",
+        "votes": {
+          "新垣繁信": 299,
+          "稲嶺惠一": 2426,
+          "吉元政矩": 623,
+          "又吉光雄": 26
+        },
+        "valid": 3374,
+        "invalid": 33,
+        "turnout": {
+          "electors": {
+            "male": 3044,
+            "female": 3075,
+            "total": 6119
+          },
+          "voters": {
+            "male": 1585,
+            "female": 1822,
+            "total": 3407
+          }
+        }
+      },
+      {
+        "code": "47345",
+        "name": "玉城村",
+        "votes": {
+          "新垣繁信": 336,
+          "稲嶺惠一": 3221,
+          "吉元政矩": 969,
+          "又吉光雄": 51
+        },
+        "valid": 4577,
+        "invalid": 41,
+        "turnout": {
+          "electors": {
+            "male": 4079,
+            "female": 4093,
+            "total": 8172
+          },
+          "voters": {
+            "male": 2260,
+            "female": 2359,
+            "total": 4619
+          }
+        }
+      },
+      {
+        "code": "47346",
+        "name": "知念村",
+        "votes": {
+          "新垣繁信": 260,
+          "稲嶺惠一": 1885,
+          "吉元政矩": 433,
+          "又吉光雄": 26
+        },
+        "valid": 2604,
+        "invalid": 38,
+        "turnout": {
+          "electors": {
+            "male": 2305,
+            "female": 2198,
+            "total": 4503
+          },
+          "voters": {
+            "male": 1319,
+            "female": 1323,
+            "total": 2642
+          }
+        }
+      },
+      {
+        "code": "47347",
+        "name": "佐敷町",
+        "votes": {
+          "新垣繁信": 399,
+          "稲嶺惠一": 3312,
+          "吉元政矩": 1525,
+          "又吉光雄": 61
+        },
+        "valid": 5297,
+        "invalid": 77,
+        "turnout": {
+          "electors": {
+            "male": 4198,
+            "female": 4339,
+            "total": 8537
+          },
+          "voters": {
+            "male": 2559,
+            "female": 2815,
+            "total": 5374
+          }
+        }
+      },
+      {
+        "code": "47348",
+        "name": "与那原町",
+        "votes": {
+          "新垣繁信": 606,
+          "稲嶺惠一": 4278,
+          "吉元政矩": 1684,
+          "又吉光雄": 49
+        },
+        "valid": 6617,
+        "invalid": 51,
+        "turnout": {
+          "electors": {
+            "male": 5369,
+            "female": 5793,
+            "total": 11162
+          },
+          "voters": {
+            "male": 3094,
+            "female": 3574,
+            "total": 6668
+          }
+        }
+      },
+      {
+        "code": "47349",
+        "name": "大里村",
+        "votes": {
+          "新垣繁信": 514,
+          "稲嶺惠一": 3609,
+          "吉元政矩": 1390,
+          "又吉光雄": 53
+        },
+        "valid": 5566,
+        "invalid": 52,
+        "turnout": {
+          "electors": {
+            "male": 4391,
+            "female": 4458,
+            "total": 8849
+          },
+          "voters": {
+            "male": 2721,
+            "female": 2897,
+            "total": 5618
+          }
+        }
+      },
+      {
+        "code": "47350",
+        "name": "南風原町",
+        "votes": {
+          "新垣繁信": 1401,
+          "稲嶺惠一": 8072,
+          "吉元政矩": 3618,
+          "又吉光雄": 149
+        },
+        "valid": 13240,
+        "invalid": 136,
+        "turnout": {
+          "electors": {
+            "male": 11287,
+            "female": 11563,
+            "total": 22850
+          },
+          "voters": {
+            "male": 6444,
+            "female": 6933,
+            "total": 13377
+          }
+        }
+      },
+      {
+        "code": "47353",
+        "name": "渡嘉敷村",
+        "votes": {
+          "新垣繁信": 26,
+          "稲嶺惠一": 363,
+          "吉元政矩": 69,
+          "又吉光雄": 4
+        },
+        "valid": 462,
+        "invalid": 4,
+        "turnout": {
+          "electors": {
+            "male": 292,
+            "female": 297,
+            "total": 589
+          },
+          "voters": {
+            "male": 231,
+            "female": 235,
+            "total": 466
+          }
+        }
+      },
+      {
+        "code": "47354",
+        "name": "座間味村",
+        "votes": {
+          "新垣繁信": 48,
+          "稲嶺惠一": 433,
+          "吉元政矩": 133,
+          "又吉光雄": 5
+        },
+        "valid": 619,
+        "invalid": 10,
+        "turnout": {
+          "electors": {
+            "male": 435,
+            "female": 392,
+            "total": 827
+          },
+          "voters": {
+            "male": 311,
+            "female": 318,
+            "total": 629
+          }
+        }
+      },
+      {
+        "code": "47355",
+        "name": "粟国村",
+        "votes": {
+          "新垣繁信": 38,
+          "稲嶺惠一": 305,
+          "吉元政矩": 49,
+          "又吉光雄": 2
+        },
+        "valid": 394,
+        "invalid": 11,
+        "turnout": {
+          "electors": {
+            "male": 388,
+            "female": 354,
+            "total": 742
+          },
+          "voters": {
+            "male": 223,
+            "female": 182,
+            "total": 405
+          }
+        }
+      },
+      {
+        "code": "47356",
+        "name": "渡名喜村",
+        "votes": {
+          "新垣繁信": 33,
+          "稲嶺惠一": 242,
+          "吉元政矩": 21,
+          "又吉光雄": 1
+        },
+        "valid": 297,
+        "invalid": 9,
+        "turnout": {
+          "electors": {
+            "male": 222,
+            "female": 202,
+            "total": 424
+          },
+          "voters": {
+            "male": 164,
+            "female": 142,
+            "total": 306
+          }
+        }
+      },
+      {
+        "code": "47357",
+        "name": "南大東村",
+        "votes": {
+          "新垣繁信": 29,
+          "稲嶺惠一": 597,
+          "吉元政矩": 105,
+          "又吉光雄": 2
+        },
+        "valid": 733,
+        "invalid": 5,
+        "turnout": {
+          "electors": {
+            "male": 654,
+            "female": 470,
+            "total": 1124
+          },
+          "voters": {
+            "male": 434,
+            "female": 304,
+            "total": 738
+          }
+        }
+      },
+      {
+        "code": "47358",
+        "name": "北大東村",
+        "votes": {
+          "新垣繁信": 7,
+          "稲嶺惠一": 276,
+          "吉元政矩": 45,
+          "又吉光雄": 1
+        },
+        "valid": 329,
+        "invalid": 1,
+        "turnout": {
+          "electors": {
+            "male": 219,
+            "female": 184,
+            "total": 403
+          },
+          "voters": {
+            "male": 175,
+            "female": 155,
+            "total": 330
+          }
+        }
+      },
+      {
+        "code": "47359",
+        "name": "伊平屋村",
+        "votes": {
+          "新垣繁信": 49,
+          "稲嶺惠一": 733,
+          "吉元政矩": 64,
+          "又吉光雄": 4
+        },
+        "valid": 850,
+        "invalid": 21,
+        "turnout": {
+          "electors": {
+            "male": 637,
+            "female": 571,
+            "total": 1208
+          },
+          "voters": {
+            "male": 455,
+            "female": 416,
+            "total": 871
+          }
+        }
+      },
+      {
+        "code": "47360",
+        "name": "伊是名村",
+        "votes": {
+          "新垣繁信": 35,
+          "稲嶺惠一": 860,
+          "吉元政矩": 103,
+          "又吉光雄": 3
+        },
+        "valid": 1001,
+        "invalid": 17,
+        "turnout": {
+          "electors": {
+            "male": 790,
+            "female": 745,
+            "total": 1535
+          },
+          "voters": {
+            "male": 537,
+            "female": 482,
+            "total": 1019
+          }
+        }
+      },
+      {
+        "code": "47361",
+        "name": "久米島町",
+        "votes": {
+          "新垣繁信": 1050,
+          "稲嶺惠一": 2100,
+          "吉元政矩": 1567,
+          "又吉光雄": 26
+        },
+        "valid": 4743,
+        "invalid": 47,
+        "turnout": {
+          "electors": {
+            "male": 3780,
+            "female": 3403,
+            "total": 7183
+          },
+          "voters": {
+            "male": 2435,
+            "female": 2355,
+            "total": 4790
+          }
+        }
+      },
+      {
+        "code": "47371",
+        "name": "城辺町",
+        "votes": {
+          "新垣繁信": 50,
+          "稲嶺惠一": 2433,
+          "吉元政矩": 883,
+          "又吉光雄": 18
+        },
+        "valid": 3384,
+        "invalid": 21,
+        "turnout": {
+          "electors": {
+            "male": 2939,
+            "female": 2912,
+            "total": 5851
+          },
+          "voters": {
+            "male": 1718,
+            "female": 1688,
+            "total": 3406
+          }
+        }
+      },
+      {
+        "code": "47372",
+        "name": "下地町",
+        "votes": {
+          "新垣繁信": 25,
+          "稲嶺惠一": 962,
+          "吉元政矩": 297,
+          "又吉光雄": 6
+        },
+        "valid": 1290,
+        "invalid": 11,
+        "turnout": {
+          "electors": {
+            "male": 1126,
+            "female": 1230,
+            "total": 2356
+          },
+          "voters": {
+            "male": 633,
+            "female": 668,
+            "total": 1301
+          }
+        }
+      },
+      {
+        "code": "47373",
+        "name": "上野村",
+        "votes": {
+          "新垣繁信": 36,
+          "稲嶺惠一": 1558,
+          "吉元政矩": 98,
+          "又吉光雄": 10
+        },
+        "valid": 1702,
+        "invalid": 14,
+        "turnout": {
+          "electors": {
+            "male": 1158,
+            "female": 1170,
+            "total": 2328
+          },
+          "voters": {
+            "male": 858,
+            "female": 858,
+            "total": 1716
+          }
+        }
+      },
+      {
+        "code": "47374",
+        "name": "伊良部町",
+        "votes": {
+          "新垣繁信": 47,
+          "稲嶺惠一": 3063,
+          "吉元政矩": 454,
+          "又吉光雄": 17
+        },
+        "valid": 3581,
+        "invalid": 41,
+        "turnout": {
+          "electors": {
+            "male": 2562,
+            "female": 2664,
+            "total": 5226
+          },
+          "voters": {
+            "male": 1703,
+            "female": 1919,
+            "total": 3622
+          }
+        }
+      },
+      {
+        "code": "47375",
+        "name": "多良間村",
+        "votes": {
+          "新垣繁信": 18,
+          "稲嶺惠一": 609,
+          "吉元政矩": 69,
+          "又吉光雄": 2
+        },
+        "valid": 698,
+        "invalid": 4,
+        "turnout": {
+          "electors": {
+            "male": 531,
+            "female": 471,
+            "total": 1002
+          },
+          "voters": {
+            "male": 381,
+            "female": 321,
+            "total": 702
+          }
+        }
+      },
+      {
+        "code": "47381",
+        "name": "竹富町",
+        "votes": {
+          "新垣繁信": 168,
+          "稲嶺惠一": 1356,
+          "吉元政矩": 507,
+          "又吉光雄": 21
+        },
+        "valid": 2052,
+        "invalid": 21,
+        "turnout": {
+          "electors": {
+            "male": 1506,
+            "female": 1429,
+            "total": 2935
+          },
+          "voters": {
+            "male": 1032,
+            "female": 1041,
+            "total": 2073
+          }
+        }
+      },
+      {
+        "code": "47382",
+        "name": "与那国町",
+        "votes": {
+          "新垣繁信": 22,
+          "稲嶺惠一": 496,
+          "吉元政矩": 472,
+          "又吉光雄": 5
+        },
+        "valid": 995,
+        "invalid": 3,
+        "turnout": {
+          "electors": {
+            "male": 682,
+            "female": 633,
+            "total": 1315
+          },
+          "voters": {
+            "male": 493,
+            "female": 505,
+            "total": 998
+          }
+        }
+      }
+    ]
+  },
+  "sources": [
+    "nenpou-r7",
+    "2002-kaihyo",
+    "2002-touhyo"
+  ]
+}

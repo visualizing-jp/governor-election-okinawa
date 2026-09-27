@@ -1,0 +1,84 @@
+{
+  "note": "陣営の分類は編集上の判断。主要候補を、自民党など保守政党の推薦・支持を受けた「保守系」と、革新共闘会議や社会・共産・社大などの推薦・支持を受けた「革新系・オール沖縄」に分け、どちらにも属さない候補は「その他」とする。2014年以降の「オール沖縄」は、辺野古移設反対で革新政党と保守の一部が組んだ枠組みで、革新系の流れに置く。根拠は年報の党派欄を優先し、なければ各回の Wikipedia 記事の推薦・支持欄による。",
+  "camps": {
+    "conservative": "保守系",
+    "progressive": "革新系・オール沖縄",
+    "other": "その他"
+  },
+  "elections": {
+    "1": {
+      "屋良朝苗": { "camp": "progressive", "basis": "党派: 革新共斗会議（年報）", "source": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/004/927/r7_nenpou.pdf" },
+      "大田政作": { "camp": "conservative", "basis": "党派: 自由民主党（年報）", "source": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/004/927/r7_nenpou.pdf" }
+    },
+    "2": {
+      "平良幸市": { "camp": "progressive", "basis": "沖縄社会大衆党委員長。革新系", "source": "https://ja.wikipedia.org/wiki/1976年沖縄県知事選挙" },
+      "安里積千代": { "camp": "conservative", "basis": "推薦: 自由民主党・民社党", "source": "https://ja.wikipedia.org/wiki/1976年沖縄県知事選挙" }
+    },
+    "3": {
+      "西銘順治": { "camp": "conservative", "basis": "推薦: 自由民主党・民社党", "source": "https://ja.wikipedia.org/wiki/1978年沖縄県知事選挙" },
+      "知花英夫": { "camp": "progressive", "basis": "革新系", "source": "https://ja.wikipedia.org/wiki/1978年沖縄県知事選挙" }
+    },
+    "4": {
+      "西銘順治": { "camp": "conservative", "basis": "保守系の現職", "source": "https://ja.wikipedia.org/wiki/1982年沖縄県知事選挙" },
+      "喜屋武真栄": { "camp": "progressive", "basis": "党派: 知事選革新共闘（年報）", "source": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/004/927/r7_nenpou.pdf" }
+    },
+    "5": {
+      "西銘順治": { "camp": "conservative", "basis": "保守系の現職", "source": "https://ja.wikipedia.org/wiki/1986年沖縄県知事選挙" },
+      "金城睦": { "camp": "progressive", "basis": "党派: 知事選革新共闘会議（年報）", "source": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/004/927/r7_nenpou.pdf" }
+    },
+    "6": {
+      "大田昌秀": { "camp": "progressive", "basis": "党派: 知事選革新共闘会議（年報）。推薦: 社会党・共産党・社大党、支持: 公明党", "source": "https://ja.wikipedia.org/wiki/1990年沖縄県知事選挙" },
+      "西銘順治": { "camp": "conservative", "basis": "推薦: 自由民主党・民社党", "source": "https://ja.wikipedia.org/wiki/1990年沖縄県知事選挙" }
+    },
+    "7": {
+      "大田昌秀": { "camp": "progressive", "basis": "推薦: 社会党・日本新党・共産党・社大党、支持: 公明党", "source": "https://ja.wikipedia.org/wiki/1994年沖縄県知事選挙" },
+      "翁長助裕": { "camp": "conservative", "basis": "推薦: 自由民主党", "source": "https://ja.wikipedia.org/wiki/1994年沖縄県知事選挙" }
+    },
+    "8": {
+      "稲嶺惠一": { "camp": "conservative", "basis": "推薦: 自由民主党・新進沖縄・スポーツ平和党", "source": "https://ja.wikipedia.org/wiki/1998年沖縄県知事選挙" },
+      "大田昌秀": { "camp": "progressive", "basis": "推薦: 民主党・社民党・共産党・社大党・自由連合・新社会党", "source": "https://ja.wikipedia.org/wiki/1998年沖縄県知事選挙" },
+      "又吉光雄": { "camp": "other", "basis": "党派: 世界経済共同体党（年報）", "source": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/004/927/r7_nenpou.pdf" }
+    },
+    "9": {
+      "稲嶺惠一": { "camp": "conservative", "basis": "推薦: 自由民主党・公明党・保守党", "source": "https://ja.wikipedia.org/wiki/2002年沖縄県知事選挙" },
+      "吉元政矩": { "camp": "progressive", "basis": "推薦: 社民党・社大党・自由連合", "source": "https://ja.wikipedia.org/wiki/2002年沖縄県知事選挙" },
+      "新垣繁信": { "camp": "progressive", "basis": "推薦: 日本共産党", "source": "https://ja.wikipedia.org/wiki/2002年沖縄県知事選挙" },
+      "又吉光雄": { "camp": "other", "basis": "党派: 世界経済共同体党（年報）", "source": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/004/927/r7_nenpou.pdf" }
+    },
+    "10": {
+      "仲井眞弘多": { "camp": "conservative", "basis": "推薦: 自由民主党・公明党", "source": "https://ja.wikipedia.org/wiki/2006年沖縄県知事選挙" },
+      "糸数慶子": { "camp": "progressive", "basis": "推薦: 民主党・共産党・社民党・国民新党・新党日本・自由連合・社大党、支持: 政党そうぞう", "source": "https://ja.wikipedia.org/wiki/2006年沖縄県知事選挙" },
+      "屋良朝助": { "camp": "other", "basis": "党派: 琉球独立党（年報）", "source": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/004/927/r7_nenpou.pdf" }
+    },
+    "11": {
+      "仲井眞弘多": { "camp": "conservative", "basis": "推薦・支持: 公明党・みんなの党・自由民主党（沖縄県連）", "source": "https://ja.wikipedia.org/wiki/2010年沖縄県知事選挙" },
+      "伊波洋一": { "camp": "progressive", "basis": "推薦・支持: 共産党・社民党・国民新党・新党日本・社大党・政党そうぞう", "source": "https://ja.wikipedia.org/wiki/2010年沖縄県知事選挙" },
+      "金城竜郎": { "camp": "other", "basis": "党派: 幸福実現党（年報）", "source": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/004/927/r7_nenpou.pdf" }
+    },
+    "12": {
+      "翁長雄志": { "camp": "progressive", "basis": "オール沖縄。支持: 共産党・生活の党・社民党・社大党・新風会", "source": "https://ja.wikipedia.org/wiki/2014年沖縄県知事選挙" },
+      "仲井眞弘多": { "camp": "conservative", "basis": "推薦: 自由民主党・次世代の党", "source": "https://ja.wikipedia.org/wiki/2014年沖縄県知事選挙" },
+      "下地幹郎": { "camp": "other", "basis": "支持: 政党そうぞう・維新の党沖縄県本部", "source": "https://ja.wikipedia.org/wiki/2014年沖縄県知事選挙" },
+      "喜納昌吉": { "camp": "other", "basis": "推薦・支持なし", "source": "https://ja.wikipedia.org/wiki/2014年沖縄県知事選挙" }
+    },
+    "13": {
+      "玉城康裕": { "camp": "progressive", "basis": "オール沖縄。支援: 立憲民主党・国民民主党・共産党・自由党・社民党・社大党", "source": "https://ja.wikipedia.org/wiki/2018年沖縄県知事選挙" },
+      "佐喜眞淳": { "camp": "conservative", "basis": "推薦: 自由民主党・公明党・日本維新の会・希望の党", "source": "https://ja.wikipedia.org/wiki/2018年沖縄県知事選挙" },
+      "兼島俊": { "camp": "other", "basis": "推薦・支持なし", "source": "https://ja.wikipedia.org/wiki/2018年沖縄県知事選挙" },
+      "渡口初美": { "camp": "other", "basis": "推薦・支持なし", "source": "https://ja.wikipedia.org/wiki/2018年沖縄県知事選挙" }
+    },
+    "14": {
+      "玉城康裕": { "camp": "progressive", "basis": "オール沖縄。推薦: 立憲民主党・共産党・れいわ新選組・社民党・社大党・にぬふぁぶし", "source": "https://ja.wikipedia.org/wiki/2022年沖縄県知事選挙" },
+      "佐喜眞淳": { "camp": "conservative", "basis": "推薦: 自由民主党・公明党", "source": "https://ja.wikipedia.org/wiki/2022年沖縄県知事選挙" },
+      "下地幹郎": { "camp": "other", "basis": "推薦・支持なし（日本維新の会は自主投票）", "source": "https://ja.wikipedia.org/wiki/2022年沖縄県知事選挙" }
+    },
+    "15": {
+      "古謝玄太": { "camp": "conservative", "basis": "推薦: 自由民主党・日本維新の会・国民民主党・参政党・公明党沖縄県本部・日本保守党", "source": "https://ja.wikipedia.org/wiki/2026年沖縄県知事選挙" },
+      "玉城康裕": { "camp": "progressive", "basis": "オール沖縄。支援: 立憲民主党・共産党・いのちの党・社民党・社大党ほか", "source": "https://ja.wikipedia.org/wiki/2026年沖縄県知事選挙" },
+      "兼島俊": { "camp": "other", "basis": "推薦・支持なし", "source": "https://ja.wikipedia.org/wiki/2026年沖縄県知事選挙" },
+      "比嘉隆": { "camp": "other", "basis": "推薦・支持なし", "source": "https://ja.wikipedia.org/wiki/2026年沖縄県知事選挙" },
+      "屋良朝助": { "camp": "other", "basis": "党派: 琉球独立党", "source": "https://ja.wikipedia.org/wiki/2026年沖縄県知事選挙" },
+      "末吉正弘": { "camp": "other", "basis": "推薦・支持なし", "source": "https://ja.wikipedia.org/wiki/2026年沖縄県知事選挙" }
+    }
+  }
+}

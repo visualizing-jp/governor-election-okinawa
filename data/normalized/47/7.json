@@ -1,0 +1,45 @@
+{
+  "pref": "47",
+  "n": 7,
+  "date": "1994-11-20",
+  "notice": "1994-11-03",
+  "reason": "任期満了",
+  "turnout": {
+    "electors": {
+      "male": 429611,
+      "female": 455119,
+      "total": 884730
+    },
+    "voters": {
+      "male": 258301,
+      "female": 295047,
+      "total": 553348
+    }
+  },
+  "candidates": [
+    {
+      "id": "大田昌秀",
+      "name": "大田昌秀",
+      "age": 69,
+      "status": "現",
+      "occupation": "沖縄県知事",
+      "party": "無所属",
+      "votes": 330601,
+      "elected": true
+    },
+    {
+      "id": "翁長助裕",
+      "name": "翁長助裕",
+      "age": 58,
+      "status": "新",
+      "occupation": "無職",
+      "party": "無所属",
+      "votes": 217769,
+      "elected": false
+    }
+  ],
+  "municipalities": null,
+  "sources": [
+    "nenpou-r7"
+  ]
+}

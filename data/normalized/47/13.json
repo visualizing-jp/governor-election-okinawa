@@ -1,0 +1,1056 @@
+{
+  "pref": "47",
+  "n": 13,
+  "date": "2018-09-30",
+  "notice": "2018-09-13",
+  "reason": "知事の死去",
+  "turnout": {
+    "electors": {
+      "male": 558500,
+      "female": 588315,
+      "total": 1146815
+    },
+    "voters": {
+      "male": 345079,
+      "female": 380175,
+      "total": 725254
+    }
+  },
+  "candidates": [
+    {
+      "id": "玉城康裕",
+      "name": "玉城康裕",
+      "label": "玉城デニー",
+      "age": 58,
+      "status": "新",
+      "occupation": "政党役員",
+      "party": "無所属",
+      "votes": 396632,
+      "elected": true
+    },
+    {
+      "id": "佐喜眞淳",
+      "name": "佐喜眞淳",
+      "age": 54,
+      "status": "新",
+      "occupation": "無職",
+      "party": "無所属",
+      "votes": 316458,
+      "elected": false
+    },
+    {
+      "id": "兼島俊",
+      "name": "兼島俊",
+      "age": 40,
+      "status": "新",
+      "occupation": "無職",
+      "party": "無所属",
+      "votes": 3638,
+      "elected": false
+    },
+    {
+      "id": "渡口初美",
+      "name": "渡口初美",
+      "age": 83,
+      "status": "新",
+      "occupation": "琉球料理研究家",
+      "party": "無所属",
+      "votes": 3482,
+      "elected": false
+    }
+  ],
+  "municipalities": {
+    "boundary": "2006",
+    "rows": [
+      {
+        "code": "47201",
+        "name": "那覇市",
+        "votes": {
+          "佐喜眞淳": 65524,
+          "玉城康裕": 92624,
+          "渡口初美": 869,
+          "兼島俊": 1152
+        },
+        "valid": 160169,
+        "invalid": 1218,
+        "turnout": {
+          "electors": {
+            "male": 121755,
+            "female": 133685,
+            "total": 255440
+          },
+          "voters": {
+            "male": 74268,
+            "female": 87120,
+            "total": 161388
+          }
+        }
+      },
+      {
+        "code": "47205",
+        "name": "宜野湾市",
+        "votes": {
+          "佐喜眞淳": 26644,
+          "玉城康裕": 22379,
+          "渡口初美": 142,
+          "兼島俊": 185
+        },
+        "valid": 49350,
+        "invalid": 277,
+        "turnout": {
+          "electors": {
+            "male": 36182,
+            "female": 39365,
+            "total": 75547
+          },
+          "voters": {
+            "male": 22939,
+            "female": 26690,
+            "total": 49629
+          }
+        }
+      },
+      {
+        "code": "47207",
+        "name": "石垣市",
+        "votes": {
+          "佐喜眞淳": 11648,
+          "玉城康裕": 11015,
+          "渡口初美": 97,
+          "兼島俊": 129
+        },
+        "valid": 22889,
+        "invalid": 204,
+        "turnout": {
+          "electors": {
+            "male": 19287,
+            "female": 19400,
+            "total": 38687
+          },
+          "voters": {
+            "male": 11385,
+            "female": 11708,
+            "total": 23093
+          }
+        }
+      },
+      {
+        "code": "47208",
+        "name": "浦添市",
+        "votes": {
+          "佐喜眞淳": 25319,
+          "玉城康裕": 30622,
+          "渡口初美": 264,
+          "兼島俊": 312
+        },
+        "valid": 56517,
+        "invalid": 375,
+        "turnout": {
+          "electors": {
+            "male": 42442,
+            "female": 46128,
+            "total": 88570
+          },
+          "voters": {
+            "male": 26563,
+            "female": 30330,
+            "total": 56893
+          }
+        }
+      },
+      {
+        "code": "47209",
+        "name": "名護市",
+        "votes": {
+          "佐喜眞淳": 15013,
+          "玉城康裕": 16796,
+          "渡口初美": 136,
+          "兼島俊": 93
+        },
+        "valid": 32038,
+        "invalid": 135,
+        "turnout": {
+          "electors": {
+            "male": 24077,
+            "female": 24728,
+            "total": 48805
+          },
+          "voters": {
+            "male": 15540,
+            "female": 16633,
+            "total": 32173
+          }
+        }
+      },
+      {
+        "code": "47210",
+        "name": "糸満市",
+        "votes": {
+          "佐喜眞淳": 12550,
+          "玉城康裕": 15708,
+          "渡口初美": 197,
+          "兼島俊": 148
+        },
+        "valid": 28603,
+        "invalid": 199,
+        "turnout": {
+          "electors": {
+            "male": 23629,
+            "female": 23472,
+            "total": 47101
+          },
+          "voters": {
+            "male": 14252,
+            "female": 14550,
+            "total": 28802
+          }
+        }
+      },
+      {
+        "code": "47211",
+        "name": "沖縄市",
+        "votes": {
+          "佐喜眞淳": 27321,
+          "玉城康裕": 35947,
+          "渡口初美": 239,
+          "兼島俊": 363
+        },
+        "valid": 63870,
+        "invalid": 367,
+        "turnout": {
+          "electors": {
+            "male": 51924,
+            "female": 57095,
+            "total": 109019
+          },
+          "voters": {
+            "male": 29861,
+            "female": 34376,
+            "total": 64237
+          }
+        }
+      },
+      {
+        "code": "47212",
+        "name": "豊見城市",
+        "votes": {
+          "佐喜眞淳": 13039,
+          "玉城康裕": 17442,
+          "渡口初美": 121,
+          "兼島俊": 110
+        },
+        "valid": 30712,
+        "invalid": 236,
+        "turnout": {
+          "electors": {
+            "male": 23547,
+            "female": 24930,
+            "total": 48477
+          },
+          "voters": {
+            "male": 14639,
+            "female": 16309,
+            "total": 30948
+          }
+        }
+      },
+      {
+        "code": "47213",
+        "name": "うるま市",
+        "votes": {
+          "佐喜眞淳": 26407,
+          "玉城康裕": 35011,
+          "渡口初美": 352,
+          "兼島俊": 312
+        },
+        "valid": 62082,
+        "invalid": 639,
+        "turnout": {
+          "electors": {
+            "male": 47858,
+            "female": 48563,
+            "total": 96421
+          },
+          "voters": {
+            "male": 30556,
+            "female": 32168,
+            "total": 62724
+          }
+        }
+      },
+      {
+        "code": "47214",
+        "name": "宮古島市",
+        "votes": {
+          "佐喜眞淳": 13314,
+          "玉城康裕": 10961,
+          "渡口初美": 83,
+          "兼島俊": 72
+        },
+        "valid": 24430,
+        "invalid": 154,
+        "turnout": {
+          "electors": {
+            "male": 21569,
+            "female": 21853,
+            "total": 43422
+          },
+          "voters": {
+            "male": 12308,
+            "female": 12276,
+            "total": 24584
+          }
+        }
+      },
+      {
+        "code": "47215",
+        "name": "南城市",
+        "votes": {
+          "佐喜眞淳": 9773,
+          "玉城康裕": 12642,
+          "渡口初美": 147,
+          "兼島俊": 106
+        },
+        "valid": 22668,
+        "invalid": 143,
+        "turnout": {
+          "electors": {
+            "male": 17348,
+            "female": 17272,
+            "total": 34620
+          },
+          "voters": {
+            "male": 11172,
+            "female": 11639,
+            "total": 22811
+          }
+        }
+      },
+      {
+        "code": "47301",
+        "name": "国頭村",
+        "votes": {
+          "佐喜眞淳": 1555,
+          "玉城康裕": 1101,
+          "渡口初美": 11,
+          "兼島俊": 11
+        },
+        "valid": 2678,
+        "invalid": 11,
+        "turnout": {
+          "electors": {
+            "male": 2055,
+            "female": 1934,
+            "total": 3989
+          },
+          "voters": {
+            "male": 1377,
+            "female": 1312,
+            "total": 2689
+          }
+        }
+      },
+      {
+        "code": "47302",
+        "name": "大宜味村",
+        "votes": {
+          "佐喜眞淳": 600,
+          "玉城康裕": 1141,
+          "渡口初美": 3,
+          "兼島俊": 5
+        },
+        "valid": 1749,
+        "invalid": 5,
+        "turnout": {
+          "electors": {
+            "male": 1408,
+            "female": 1241,
+            "total": 2649
+          },
+          "voters": {
+            "male": 951,
+            "female": 803,
+            "total": 1754
+          }
+        }
+      },
+      {
+        "code": "47303",
+        "name": "東村",
+        "votes": {
+          "佐喜眞淳": 589,
+          "玉城康裕": 516,
+          "渡口初美": 11,
+          "兼島俊": 2
+        },
+        "valid": 1118,
+        "invalid": 7,
+        "turnout": {
+          "electors": {
+            "male": 843,
+            "female": 688,
+            "total": 1531
+          },
+          "voters": {
+            "male": 620,
+            "female": 505,
+            "total": 1125
+          }
+        }
+      },
+      {
+        "code": "47306",
+        "name": "今帰仁村",
+        "votes": {
+          "佐喜眞淳": 1817,
+          "玉城康裕": 3261,
+          "渡口初美": 31,
+          "兼島俊": 19
+        },
+        "valid": 5128,
+        "invalid": 34,
+        "turnout": {
+          "electors": {
+            "male": 3938,
+            "female": 3732,
+            "total": 7670
+          },
+          "voters": {
+            "male": 2610,
+            "female": 2552,
+            "total": 5162
+          }
+        }
+      },
+      {
+        "code": "47308",
+        "name": "本部町",
+        "votes": {
+          "佐喜眞淳": 3095,
+          "玉城康裕": 3621,
+          "渡口初美": 34,
+          "兼島俊": 23
+        },
+        "valid": 6773,
+        "invalid": 41,
+        "turnout": {
+          "electors": {
+            "male": 5526,
+            "female": 5332,
+            "total": 10858
+          },
+          "voters": {
+            "male": 3391,
+            "female": 3423,
+            "total": 6814
+          }
+        }
+      },
+      {
+        "code": "47311",
+        "name": "恩納村",
+        "votes": {
+          "佐喜眞淳": 2275,
+          "玉城康裕": 2771,
+          "渡口初美": 38,
+          "兼島俊": 23
+        },
+        "valid": 5107,
+        "invalid": 28,
+        "turnout": {
+          "electors": {
+            "male": 4222,
+            "female": 4107,
+            "total": 8329
+          },
+          "voters": {
+            "male": 2606,
+            "female": 2529,
+            "total": 5135
+          }
+        }
+      },
+      {
+        "code": "47313",
+        "name": "宜野座村",
+        "votes": {
+          "佐喜眞淳": 1389,
+          "玉城康裕": 1716,
+          "渡口初美": 21,
+          "兼島俊": 20
+        },
+        "valid": 3146,
+        "invalid": 24,
+        "turnout": {
+          "electors": {
+            "male": 2304,
+            "female": 2306,
+            "total": 4610
+          },
+          "voters": {
+            "male": 1599,
+            "female": 1571,
+            "total": 3170
+          }
+        }
+      },
+      {
+        "code": "47314",
+        "name": "金武町",
+        "votes": {
+          "佐喜眞淳": 2635,
+          "玉城康裕": 2755,
+          "渡口初美": 18,
+          "兼島俊": 24
+        },
+        "valid": 5432,
+        "invalid": 30,
+        "turnout": {
+          "electors": {
+            "male": 4446,
+            "female": 4551,
+            "total": 8997
+          },
+          "voters": {
+            "male": 2653,
+            "female": 2809,
+            "total": 5462
+          }
+        }
+      },
+      {
+        "code": "47315",
+        "name": "伊江村",
+        "votes": {
+          "佐喜眞淳": 1114,
+          "玉城康裕": 1472,
+          "渡口初美": 14,
+          "兼島俊": 9
+        },
+        "valid": 2609,
+        "invalid": 7,
+        "turnout": {
+          "electors": {
+            "male": 1924,
+            "female": 1866,
+            "total": 3790
+          },
+          "voters": {
+            "male": 1329,
+            "female": 1287,
+            "total": 2616
+          }
+        }
+      },
+      {
+        "code": "47324",
+        "name": "読谷村",
+        "votes": {
+          "佐喜眞淳": 7658,
+          "玉城康裕": 11715,
+          "渡口初美": 111,
+          "兼島俊": 66
+        },
+        "valid": 19550,
+        "invalid": 117,
+        "turnout": {
+          "electors": {
+            "male": 15602,
+            "female": 16420,
+            "total": 32022
+          },
+          "voters": {
+            "male": 9442,
+            "female": 10225,
+            "total": 19667
+          }
+        }
+      },
+      {
+        "code": "47325",
+        "name": "嘉手納町",
+        "votes": {
+          "佐喜眞淳": 3231,
+          "玉城康裕": 3534,
+          "渡口初美": 47,
+          "兼島俊": 27
+        },
+        "valid": 6839,
+        "invalid": 46,
+        "turnout": {
+          "electors": {
+            "male": 5160,
+            "female": 5623,
+            "total": 10783
+          },
+          "voters": {
+            "male": 3235,
+            "female": 3650,
+            "total": 6885
+          }
+        }
+      },
+      {
+        "code": "47326",
+        "name": "北谷町",
+        "votes": {
+          "佐喜眞淳": 5280,
+          "玉城康裕": 7694,
+          "渡口初美": 51,
+          "兼島俊": 50
+        },
+        "valid": 13075,
+        "invalid": 82,
+        "turnout": {
+          "electors": {
+            "male": 10379,
+            "female": 11719,
+            "total": 22098
+          },
+          "voters": {
+            "male": 6134,
+            "female": 7023,
+            "total": 13157
+          }
+        }
+      },
+      {
+        "code": "47327",
+        "name": "北中城村",
+        "votes": {
+          "佐喜眞淳": 3169,
+          "玉城康裕": 5344,
+          "渡口初美": 32,
+          "兼島俊": 33
+        },
+        "valid": 8578,
+        "invalid": 40,
+        "turnout": {
+          "electors": {
+            "male": 6380,
+            "female": 7023,
+            "total": 13403
+          },
+          "voters": {
+            "male": 4025,
+            "female": 4593,
+            "total": 8618
+          }
+        }
+      },
+      {
+        "code": "47328",
+        "name": "中城村",
+        "votes": {
+          "佐喜眞淳": 4393,
+          "玉城康裕": 6045,
+          "渡口初美": 37,
+          "兼島俊": 30
+        },
+        "valid": 10505,
+        "invalid": 78,
+        "turnout": {
+          "electors": {
+            "male": 8044,
+            "female": 8211,
+            "total": 16255
+          },
+          "voters": {
+            "male": 5077,
+            "female": 5506,
+            "total": 10583
+          }
+        }
+      },
+      {
+        "code": "47329",
+        "name": "西原町",
+        "votes": {
+          "佐喜眞淳": 6901,
+          "玉城康裕": 11265,
+          "渡口初美": 77,
+          "兼島俊": 73
+        },
+        "valid": 18316,
+        "invalid": 107,
+        "turnout": {
+          "electors": {
+            "male": 13753,
+            "female": 13761,
+            "total": 27514
+          },
+          "voters": {
+            "male": 8863,
+            "female": 9560,
+            "total": 18423
+          }
+        }
+      },
+      {
+        "code": "47348",
+        "name": "与那原町",
+        "votes": {
+          "佐喜眞淳": 4177,
+          "玉城康裕": 5524,
+          "渡口初美": 47,
+          "兼島俊": 50
+        },
+        "valid": 9798,
+        "invalid": 61,
+        "turnout": {
+          "electors": {
+            "male": 7205,
+            "female": 7783,
+            "total": 14988
+          },
+          "voters": {
+            "male": 4604,
+            "female": 5255,
+            "total": 9859
+          }
+        }
+      },
+      {
+        "code": "47350",
+        "name": "南風原町",
+        "votes": {
+          "佐喜眞淳": 7435,
+          "玉城康裕": 11669,
+          "渡口初美": 75,
+          "兼島俊": 67
+        },
+        "valid": 19246,
+        "invalid": 113,
+        "turnout": {
+          "electors": {
+            "male": 14193,
+            "female": 15103,
+            "total": 29296
+          },
+          "voters": {
+            "male": 9117,
+            "female": 10242,
+            "total": 19359
+          }
+        }
+      },
+      {
+        "code": "47353",
+        "name": "渡嘉敷村",
+        "votes": {
+          "佐喜眞淳": 207,
+          "玉城康裕": 193,
+          "渡口初美": 0,
+          "兼島俊": 0
+        },
+        "valid": 400,
+        "invalid": 9,
+        "turnout": {
+          "electors": {
+            "male": 305,
+            "female": 264,
+            "total": 569
+          },
+          "voters": {
+            "male": 223,
+            "female": 186,
+            "total": 409
+          }
+        }
+      },
+      {
+        "code": "47354",
+        "name": "座間味村",
+        "votes": {
+          "佐喜眞淳": 261,
+          "玉城康裕": 319,
+          "渡口初美": 5,
+          "兼島俊": 1
+        },
+        "valid": 586,
+        "invalid": 3,
+        "turnout": {
+          "electors": {
+            "male": 412,
+            "female": 353,
+            "total": 765
+          },
+          "voters": {
+            "male": 319,
+            "female": 270,
+            "total": 589
+          }
+        }
+      },
+      {
+        "code": "47355",
+        "name": "粟国村",
+        "votes": {
+          "佐喜眞淳": 189,
+          "玉城康裕": 169,
+          "渡口初美": 4,
+          "兼島俊": 0
+        },
+        "valid": 362,
+        "invalid": 2,
+        "turnout": {
+          "electors": {
+            "male": 331,
+            "female": 266,
+            "total": 597
+          },
+          "voters": {
+            "male": 205,
+            "female": 159,
+            "total": 364
+          }
+        }
+      },
+      {
+        "code": "47356",
+        "name": "渡名喜村",
+        "votes": {
+          "佐喜眞淳": 125,
+          "玉城康裕": 106,
+          "渡口初美": 0,
+          "兼島俊": 1
+        },
+        "valid": 232,
+        "invalid": 3,
+        "turnout": {
+          "electors": {
+            "male": 178,
+            "female": 152,
+            "total": 330
+          },
+          "voters": {
+            "male": 137,
+            "female": 98,
+            "total": 235
+          }
+        }
+      },
+      {
+        "code": "47357",
+        "name": "南大東村",
+        "votes": {
+          "佐喜眞淳": 513,
+          "玉城康裕": 231,
+          "渡口初美": 5,
+          "兼島俊": 2
+        },
+        "valid": 751,
+        "invalid": 3,
+        "turnout": {
+          "electors": {
+            "male": 565,
+            "female": 409,
+            "total": 974
+          },
+          "voters": {
+            "male": 437,
+            "female": 317,
+            "total": 754
+          }
+        }
+      },
+      {
+        "code": "47358",
+        "name": "北大東村",
+        "votes": {
+          "佐喜眞淳": 299,
+          "玉城康裕": 77,
+          "渡口初美": 3,
+          "兼島俊": 0
+        },
+        "valid": 379,
+        "invalid": 6,
+        "turnout": {
+          "electors": {
+            "male": 257,
+            "female": 190,
+            "total": 447
+          },
+          "voters": {
+            "male": 222,
+            "female": 163,
+            "total": 385
+          }
+        }
+      },
+      {
+        "code": "47359",
+        "name": "伊平屋村",
+        "votes": {
+          "佐喜眞淳": 380,
+          "玉城康裕": 275,
+          "渡口初美": 2,
+          "兼島俊": 5
+        },
+        "valid": 662,
+        "invalid": 10,
+        "turnout": {
+          "electors": {
+            "male": 544,
+            "female": 435,
+            "total": 979
+          },
+          "voters": {
+            "male": 372,
+            "female": 300,
+            "total": 672
+          }
+        }
+      },
+      {
+        "code": "47360",
+        "name": "伊是名村",
+        "votes": {
+          "佐喜眞淳": 437,
+          "玉城康裕": 291,
+          "渡口初美": 9,
+          "兼島俊": 3
+        },
+        "valid": 740,
+        "invalid": 16,
+        "turnout": {
+          "electors": {
+            "male": 642,
+            "female": 532,
+            "total": 1174
+          },
+          "voters": {
+            "male": 417,
+            "female": 339,
+            "total": 756
+          }
+        }
+      },
+      {
+        "code": "47361",
+        "name": "久米島町",
+        "votes": {
+          "佐喜眞淳": 1544,
+          "玉城康裕": 2233,
+          "渡口初美": 42,
+          "兼島俊": 14
+        },
+        "valid": 3833,
+        "invalid": 26,
+        "turnout": {
+          "electors": {
+            "male": 3438,
+            "female": 3009,
+            "total": 6447
+          },
+          "voters": {
+            "male": 2044,
+            "female": 1815,
+            "total": 3859
+          }
+        }
+      },
+      {
+        "code": "47362",
+        "name": "八重瀬町",
+        "votes": {
+          "佐喜眞淳": 6470,
+          "玉城康裕": 8676,
+          "渡口初美": 66,
+          "兼島俊": 82
+        },
+        "valid": 15294,
+        "invalid": 109,
+        "turnout": {
+          "electors": {
+            "male": 11831,
+            "female": 12200,
+            "total": 24031
+          },
+          "voters": {
+            "male": 7423,
+            "female": 7980,
+            "total": 15403
+          }
+        }
+      },
+      {
+        "code": "47375",
+        "name": "多良間村",
+        "votes": {
+          "佐喜眞淳": 421,
+          "玉城康裕": 191,
+          "渡口初美": 1,
+          "兼島俊": 0
+        },
+        "valid": 613,
+        "invalid": 3,
+        "turnout": {
+          "electors": {
+            "male": 456,
+            "female": 378,
+            "total": 834
+          },
+          "voters": {
+            "male": 336,
+            "female": 280,
+            "total": 616
+          }
+        }
+      },
+      {
+        "code": "47381",
+        "name": "竹富町",
+        "votes": {
+          "佐喜眞淳": 1148,
+          "玉城康裕": 1178,
+          "渡口初美": 25,
+          "兼島俊": 12
+        },
+        "valid": 2363,
+        "invalid": 63,
+        "turnout": {
+          "electors": {
+            "male": 1790,
+            "female": 1652,
+            "total": 3442
+          },
+          "voters": {
+            "male": 1248,
+            "female": 1178,
+            "total": 2426
+          }
+        }
+      },
+      {
+        "code": "47382",
+        "name": "与那国町",
+        "votes": {
+          "佐喜眞淳": 599,
+          "玉城康裕": 402,
+          "渡口初美": 15,
+          "兼島俊": 4
+        },
+        "valid": 1020,
+        "invalid": 6,
+        "turnout": {
+          "electors": {
+            "male": 751,
+            "female": 584,
+            "total": 1335
+          },
+          "voters": {
+            "male": 580,
+            "female": 446,
+            "total": 1026
+          }
+        }
+      }
+    ]
+  },
+  "sources": [
+    "nenpou-r7",
+    "2018-kekka",
+    "soumu-2018"
+  ]
+}

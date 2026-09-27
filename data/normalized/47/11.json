@@ -1,0 +1,1004 @@
+{
+  "pref": "47",
+  "n": 11,
+  "date": "2010-11-28",
+  "notice": "2010-11-11",
+  "reason": "任期満了",
+  "turnout": {
+    "electors": {
+      "male": 518802,
+      "female": 549393,
+      "total": 1068195
+    },
+    "voters": {
+      "male": 311071,
+      "female": 339291,
+      "total": 650362
+    }
+  },
+  "candidates": [
+    {
+      "id": "仲井眞弘多",
+      "name": "仲井眞弘多",
+      "age": 71,
+      "status": "現",
+      "occupation": "沖縄県知事",
+      "party": "無所属",
+      "votes": 335708,
+      "elected": true
+    },
+    {
+      "id": "伊波洋一",
+      "name": "伊波洋一",
+      "age": 58,
+      "status": "新",
+      "occupation": "無職",
+      "party": "無所属",
+      "votes": 297082,
+      "elected": false
+    },
+    {
+      "id": "金城竜郎",
+      "name": "金城竜郎",
+      "age": 46,
+      "status": "新",
+      "occupation": "幸福の科学職員",
+      "party": "幸福実現党",
+      "votes": 13116,
+      "elected": false
+    }
+  ],
+  "municipalities": {
+    "boundary": "2006",
+    "rows": [
+      {
+        "code": "47201",
+        "name": "那覇市",
+        "votes": {
+          "仲井眞弘多": 76327,
+          "伊波洋一": 68108,
+          "金城竜郎": 2244
+        },
+        "valid": 146679,
+        "invalid": 952,
+        "turnout": {
+          "electors": {
+            "male": 115800,
+            "female": 128541,
+            "total": 244341
+          },
+          "voters": {
+            "male": 68791,
+            "female": 78841,
+            "total": 147632
+          }
+        }
+      },
+      {
+        "code": "47205",
+        "name": "宜野湾市",
+        "votes": {
+          "仲井眞弘多": 21412,
+          "伊波洋一": 24010,
+          "金城竜郎": 794
+        },
+        "valid": 46216,
+        "invalid": 367,
+        "turnout": {
+          "electors": {
+            "male": 33327,
+            "female": 36212,
+            "total": 69539
+          },
+          "voters": {
+            "male": 21717,
+            "female": 24866,
+            "total": 46583
+          }
+        }
+      },
+      {
+        "code": "47207",
+        "name": "石垣市",
+        "votes": {
+          "仲井眞弘多": 11175,
+          "伊波洋一": 8279,
+          "金城竜郎": 760
+        },
+        "valid": 20214,
+        "invalid": 116,
+        "turnout": {
+          "electors": {
+            "male": 17975,
+            "female": 18405,
+            "total": 36380
+          },
+          "voters": {
+            "male": 10034,
+            "female": 10297,
+            "total": 20331
+          }
+        }
+      },
+      {
+        "code": "47208",
+        "name": "浦添市",
+        "votes": {
+          "仲井眞弘多": 25101,
+          "伊波洋一": 24004,
+          "金城竜郎": 880
+        },
+        "valid": 49985,
+        "invalid": 430,
+        "turnout": {
+          "electors": {
+            "male": 39567,
+            "female": 42693,
+            "total": 82260
+          },
+          "voters": {
+            "male": 23759,
+            "female": 26656,
+            "total": 50415
+          }
+        }
+      },
+      {
+        "code": "47209",
+        "name": "名護市",
+        "votes": {
+          "仲井眞弘多": 15213,
+          "伊波洋一": 13040,
+          "金城竜郎": 572
+        },
+        "valid": 28825,
+        "invalid": 141,
+        "turnout": {
+          "electors": {
+            "male": 22070,
+            "female": 22952,
+            "total": 45022
+          },
+          "voters": {
+            "male": 14105,
+            "female": 14861,
+            "total": 28966
+          }
+        }
+      },
+      {
+        "code": "47210",
+        "name": "糸満市",
+        "votes": {
+          "仲井眞弘多": 14384,
+          "伊波洋一": 10937,
+          "金城竜郎": 675
+        },
+        "valid": 25996,
+        "invalid": 162,
+        "turnout": {
+          "electors": {
+            "male": 21621,
+            "female": 21780,
+            "total": 43401
+          },
+          "voters": {
+            "male": 12845,
+            "female": 13313,
+            "total": 26158
+          }
+        }
+      },
+      {
+        "code": "47211",
+        "name": "沖縄市",
+        "votes": {
+          "仲井眞弘多": 29442,
+          "伊波洋一": 25680,
+          "金城竜郎": 1332
+        },
+        "valid": 56454,
+        "invalid": 405,
+        "turnout": {
+          "electors": {
+            "male": 47289,
+            "female": 52345,
+            "total": 99634
+          },
+          "voters": {
+            "male": 26528,
+            "female": 30333,
+            "total": 56861
+          }
+        }
+      },
+      {
+        "code": "47212",
+        "name": "豊見城市",
+        "votes": {
+          "仲井眞弘多": 12677,
+          "伊波洋一": 11951,
+          "金城竜郎": 420
+        },
+        "valid": 25048,
+        "invalid": 112,
+        "turnout": {
+          "electors": {
+            "male": 20735,
+            "female": 21865,
+            "total": 42600
+          },
+          "voters": {
+            "male": 12058,
+            "female": 13103,
+            "total": 25161
+          }
+        }
+      },
+      {
+        "code": "47213",
+        "name": "うるま市",
+        "votes": {
+          "仲井眞弘多": 28774,
+          "伊波洋一": 22834,
+          "金城竜郎": 1068
+        },
+        "valid": 52676,
+        "invalid": 341,
+        "turnout": {
+          "electors": {
+            "male": 44202,
+            "female": 44932,
+            "total": 89134
+          },
+          "voters": {
+            "male": 25848,
+            "female": 27169,
+            "total": 53017
+          }
+        }
+      },
+      {
+        "code": "47214",
+        "name": "宮古島市",
+        "votes": {
+          "仲井眞弘多": 13982,
+          "伊波洋一": 8516,
+          "金城竜郎": 865
+        },
+        "valid": 23363,
+        "invalid": 262,
+        "turnout": {
+          "electors": {
+            "male": 20908,
+            "female": 21599,
+            "total": 42507
+          },
+          "voters": {
+            "male": 11715,
+            "female": 11910,
+            "total": 23625
+          }
+        }
+      },
+      {
+        "code": "47215",
+        "name": "南城市",
+        "votes": {
+          "仲井眞弘多": 10569,
+          "伊波洋一": 9163,
+          "金城竜郎": 385
+        },
+        "valid": 20117,
+        "invalid": 131,
+        "turnout": {
+          "electors": {
+            "male": 15769,
+            "female": 15786,
+            "total": 31555
+          },
+          "voters": {
+            "male": 9976,
+            "female": 10272,
+            "total": 20248
+          }
+        }
+      },
+      {
+        "code": "47301",
+        "name": "国頭村",
+        "votes": {
+          "仲井眞弘多": 1977,
+          "伊波洋一": 820,
+          "金城竜郎": 34
+        },
+        "valid": 2831,
+        "invalid": 16,
+        "turnout": {
+          "electors": {
+            "male": 2158,
+            "female": 2181,
+            "total": 4339
+          },
+          "voters": {
+            "male": 1440,
+            "female": 1407,
+            "total": 2847
+          }
+        }
+      },
+      {
+        "code": "47302",
+        "name": "大宜味村",
+        "votes": {
+          "仲井眞弘多": 601,
+          "伊波洋一": 1082,
+          "金城竜郎": 47
+        },
+        "valid": 1730,
+        "invalid": 10,
+        "turnout": {
+          "electors": {
+            "male": 1435,
+            "female": 1372,
+            "total": 2807
+          },
+          "voters": {
+            "male": 875,
+            "female": 865,
+            "total": 1740
+          }
+        }
+      },
+      {
+        "code": "47303",
+        "name": "東村",
+        "votes": {
+          "仲井眞弘多": 719,
+          "伊波洋一": 451,
+          "金城竜郎": 22
+        },
+        "valid": 1192,
+        "invalid": 6,
+        "turnout": {
+          "electors": {
+            "male": 854,
+            "female": 729,
+            "total": 1583
+          },
+          "voters": {
+            "male": 624,
+            "female": 574,
+            "total": 1198
+          }
+        }
+      },
+      {
+        "code": "47306",
+        "name": "今帰仁村",
+        "votes": {
+          "仲井眞弘多": 2220,
+          "伊波洋一": 2308,
+          "金城竜郎": 68
+        },
+        "valid": 4596,
+        "invalid": 40,
+        "turnout": {
+          "electors": {
+            "male": 3820,
+            "female": 3756,
+            "total": 7576
+          },
+          "voters": {
+            "male": 2297,
+            "female": 2339,
+            "total": 4636
+          }
+        }
+      },
+      {
+        "code": "47308",
+        "name": "本部町",
+        "votes": {
+          "仲井眞弘多": 3714,
+          "伊波洋一": 2540,
+          "金城竜郎": 223
+        },
+        "valid": 6477,
+        "invalid": 48,
+        "turnout": {
+          "electors": {
+            "male": 5648,
+            "female": 5594,
+            "total": 11242
+          },
+          "voters": {
+            "male": 3235,
+            "female": 3290,
+            "total": 6525
+          }
+        }
+      },
+      {
+        "code": "47311",
+        "name": "恩納村",
+        "votes": {
+          "仲井眞弘多": 2508,
+          "伊波洋一": 2204,
+          "金城竜郎": 131
+        },
+        "valid": 4843,
+        "invalid": 32,
+        "turnout": {
+          "electors": {
+            "male": 4170,
+            "female": 4073,
+            "total": 8243
+          },
+          "voters": {
+            "male": 2428,
+            "female": 2447,
+            "total": 4875
+          }
+        }
+      },
+      {
+        "code": "47313",
+        "name": "宜野座村",
+        "votes": {
+          "仲井眞弘多": 1614,
+          "伊波洋一": 1260,
+          "金城竜郎": 69
+        },
+        "valid": 2943,
+        "invalid": 11,
+        "turnout": {
+          "electors": {
+            "male": 2099,
+            "female": 2105,
+            "total": 4204
+          },
+          "voters": {
+            "male": 1470,
+            "female": 1484,
+            "total": 2954
+          }
+        }
+      },
+      {
+        "code": "47314",
+        "name": "金武町",
+        "votes": {
+          "仲井眞弘多": 3228,
+          "伊波洋一": 1778,
+          "金城竜郎": 167
+        },
+        "valid": 5173,
+        "invalid": 38,
+        "turnout": {
+          "electors": {
+            "male": 4208,
+            "female": 4392,
+            "total": 8600
+          },
+          "voters": {
+            "male": 2487,
+            "female": 2725,
+            "total": 5212
+          }
+        }
+      },
+      {
+        "code": "47315",
+        "name": "伊江村",
+        "votes": {
+          "仲井眞弘多": 1637,
+          "伊波洋一": 744,
+          "金城竜郎": 40
+        },
+        "valid": 2421,
+        "invalid": 4,
+        "turnout": {
+          "electors": {
+            "male": 1974,
+            "female": 1958,
+            "total": 3932
+          },
+          "voters": {
+            "male": 1217,
+            "female": 1208,
+            "total": 2425
+          }
+        }
+      },
+      {
+        "code": "47324",
+        "name": "読谷村",
+        "votes": {
+          "仲井眞弘多": 8495,
+          "伊波洋一": 9278,
+          "金城竜郎": 354
+        },
+        "valid": 18127,
+        "invalid": 112,
+        "turnout": {
+          "electors": {
+            "male": 14454,
+            "female": 15115,
+            "total": 29569
+          },
+          "voters": {
+            "male": 8727,
+            "female": 9512,
+            "total": 18239
+          }
+        }
+      },
+      {
+        "code": "47325",
+        "name": "嘉手納町",
+        "votes": {
+          "仲井眞弘多": 3887,
+          "伊波洋一": 2628,
+          "金城竜郎": 142
+        },
+        "valid": 6657,
+        "invalid": 50,
+        "turnout": {
+          "electors": {
+            "male": 5067,
+            "female": 5430,
+            "total": 10497
+          },
+          "voters": {
+            "male": 3137,
+            "female": 3570,
+            "total": 6707
+          }
+        }
+      },
+      {
+        "code": "47326",
+        "name": "北谷町",
+        "votes": {
+          "仲井眞弘多": 5614,
+          "伊波洋一": 6167,
+          "金城竜郎": 263
+        },
+        "valid": 12044,
+        "invalid": 69,
+        "turnout": {
+          "electors": {
+            "male": 9565,
+            "female": 10736,
+            "total": 20301
+          },
+          "voters": {
+            "male": 5668,
+            "female": 6445,
+            "total": 12113
+          }
+        }
+      },
+      {
+        "code": "47327",
+        "name": "北中城村",
+        "votes": {
+          "仲井眞弘多": 3439,
+          "伊波洋一": 4152,
+          "金城竜郎": 131
+        },
+        "valid": 7722,
+        "invalid": 48,
+        "turnout": {
+          "electors": {
+            "male": 5835,
+            "female": 6378,
+            "total": 12213
+          },
+          "voters": {
+            "male": 3720,
+            "female": 4050,
+            "total": 7770
+          }
+        }
+      },
+      {
+        "code": "47328",
+        "name": "中城村",
+        "votes": {
+          "仲井眞弘多": 3936,
+          "伊波洋一": 4442,
+          "金城竜郎": 113
+        },
+        "valid": 8491,
+        "invalid": 57,
+        "turnout": {
+          "electors": {
+            "male": 6742,
+            "female": 6642,
+            "total": 13384
+          },
+          "voters": {
+            "male": 4203,
+            "female": 4345,
+            "total": 8548
+          }
+        }
+      },
+      {
+        "code": "47329",
+        "name": "西原町",
+        "votes": {
+          "仲井眞弘多": 7438,
+          "伊波洋一": 9017,
+          "金城竜郎": 331
+        },
+        "valid": 16786,
+        "invalid": 148,
+        "turnout": {
+          "electors": {
+            "male": 12915,
+            "female": 13077,
+            "total": 25992
+          },
+          "voters": {
+            "male": 8196,
+            "female": 8738,
+            "total": 16934
+          }
+        }
+      },
+      {
+        "code": "47348",
+        "name": "与那原町",
+        "votes": {
+          "仲井眞弘多": 3851,
+          "伊波洋一": 3753,
+          "金城竜郎": 142
+        },
+        "valid": 7746,
+        "invalid": 49,
+        "turnout": {
+          "electors": {
+            "male": 5963,
+            "female": 6473,
+            "total": 12436
+          },
+          "voters": {
+            "male": 3643,
+            "female": 4152,
+            "total": 7795
+          }
+        }
+      },
+      {
+        "code": "47350",
+        "name": "南風原町",
+        "votes": {
+          "仲井眞弘多": 7779,
+          "伊波洋一": 7773,
+          "金城竜郎": 255
+        },
+        "valid": 15807,
+        "invalid": 93,
+        "turnout": {
+          "electors": {
+            "male": 12589,
+            "female": 13175,
+            "total": 25764
+          },
+          "voters": {
+            "male": 7750,
+            "female": 8150,
+            "total": 15900
+          }
+        }
+      },
+      {
+        "code": "47353",
+        "name": "渡嘉敷村",
+        "votes": {
+          "仲井眞弘多": 265,
+          "伊波洋一": 150,
+          "金城竜郎": 14
+        },
+        "valid": 429,
+        "invalid": 4,
+        "turnout": {
+          "electors": {
+            "male": 301,
+            "female": 272,
+            "total": 573
+          },
+          "voters": {
+            "male": 228,
+            "female": 205,
+            "total": 433
+          }
+        }
+      },
+      {
+        "code": "47354",
+        "name": "座間味村",
+        "votes": {
+          "仲井眞弘多": 349,
+          "伊波洋一": 187,
+          "金城竜郎": 27
+        },
+        "valid": 563,
+        "invalid": 8,
+        "turnout": {
+          "electors": {
+            "male": 394,
+            "female": 354,
+            "total": 748
+          },
+          "voters": {
+            "male": 300,
+            "female": 271,
+            "total": 571
+          }
+        }
+      },
+      {
+        "code": "47355",
+        "name": "粟国村",
+        "votes": {
+          "仲井眞弘多": 279,
+          "伊波洋一": 116,
+          "金城竜郎": 19
+        },
+        "valid": 414,
+        "invalid": 9,
+        "turnout": {
+          "electors": {
+            "male": 368,
+            "female": 313,
+            "total": 681
+          },
+          "voters": {
+            "male": 244,
+            "female": 179,
+            "total": 423
+          }
+        }
+      },
+      {
+        "code": "47356",
+        "name": "渡名喜村",
+        "votes": {
+          "仲井眞弘多": 189,
+          "伊波洋一": 71,
+          "金城竜郎": 3
+        },
+        "valid": 263,
+        "invalid": 4,
+        "turnout": {
+          "electors": {
+            "male": 202,
+            "female": 170,
+            "total": 372
+          },
+          "voters": {
+            "male": 151,
+            "female": 116,
+            "total": 267
+          }
+        }
+      },
+      {
+        "code": "47357",
+        "name": "南大東村",
+        "votes": {
+          "仲井眞弘多": 464,
+          "伊波洋一": 224,
+          "金城竜郎": 13
+        },
+        "valid": 701,
+        "invalid": 7,
+        "turnout": {
+          "electors": {
+            "male": 590,
+            "female": 441,
+            "total": 1031
+          },
+          "voters": {
+            "male": 407,
+            "female": 301,
+            "total": 708
+          }
+        }
+      },
+      {
+        "code": "47358",
+        "name": "北大東村",
+        "votes": {
+          "仲井眞弘多": 276,
+          "伊波洋一": 59,
+          "金城竜郎": 2
+        },
+        "valid": 337,
+        "invalid": 8,
+        "turnout": {
+          "electors": {
+            "male": 227,
+            "female": 181,
+            "total": 408
+          },
+          "voters": {
+            "male": 191,
+            "female": 154,
+            "total": 345
+          }
+        }
+      },
+      {
+        "code": "47359",
+        "name": "伊平屋村",
+        "votes": {
+          "仲井眞弘多": 495,
+          "伊波洋一": 213,
+          "金城竜郎": 20
+        },
+        "valid": 728,
+        "invalid": 4,
+        "turnout": {
+          "electors": {
+            "male": 545,
+            "female": 500,
+            "total": 1045
+          },
+          "voters": {
+            "male": 381,
+            "female": 351,
+            "total": 732
+          }
+        }
+      },
+      {
+        "code": "47360",
+        "name": "伊是名村",
+        "votes": {
+          "仲井眞弘多": 512,
+          "伊波洋一": 249,
+          "金城竜郎": 18
+        },
+        "valid": 779,
+        "invalid": 21,
+        "turnout": {
+          "electors": {
+            "male": 680,
+            "female": 604,
+            "total": 1284
+          },
+          "voters": {
+            "male": 411,
+            "female": 389,
+            "total": 800
+          }
+        }
+      },
+      {
+        "code": "47361",
+        "name": "久米島町",
+        "votes": {
+          "仲井眞弘多": 1858,
+          "伊波洋一": 2113,
+          "金城竜郎": 126
+        },
+        "valid": 4097,
+        "invalid": 18,
+        "turnout": {
+          "electors": {
+            "male": 3596,
+            "female": 3227,
+            "total": 6823
+          },
+          "voters": {
+            "male": 2115,
+            "female": 2000,
+            "total": 4115
+          }
+        }
+      },
+      {
+        "code": "47362",
+        "name": "八重瀬町",
+        "votes": {
+          "仲井眞弘多": 7088,
+          "伊波洋一": 5351,
+          "金城竜郎": 226
+        },
+        "valid": 12665,
+        "invalid": 75,
+        "turnout": {
+          "electors": {
+            "male": 10352,
+            "female": 10451,
+            "total": 20803
+          },
+          "voters": {
+            "male": 6202,
+            "female": 6538,
+            "total": 12740
+          }
+        }
+      },
+      {
+        "code": "47375",
+        "name": "多良間村",
+        "votes": {
+          "仲井眞弘多": 388,
+          "伊波洋一": 226,
+          "金城竜郎": 10
+        },
+        "valid": 624,
+        "invalid": 1,
+        "turnout": {
+          "electors": {
+            "male": 506,
+            "female": 436,
+            "total": 942
+          },
+          "voters": {
+            "male": 348,
+            "female": 277,
+            "total": 625
+          }
+        }
+      },
+      {
+        "code": "47381",
+        "name": "竹富町",
+        "votes": {
+          "仲井眞弘多": 1306,
+          "伊波洋一": 832,
+          "金城竜郎": 94
+        },
+        "valid": 2232,
+        "invalid": 32,
+        "turnout": {
+          "electors": {
+            "male": 1671,
+            "female": 1565,
+            "total": 3236
+          },
+          "voters": {
+            "male": 1145,
+            "female": 1119,
+            "total": 2264
+          }
+        }
+      },
+      {
+        "code": "47382",
+        "name": "与那国町",
+        "votes": {
+          "仲井眞弘多": 526,
+          "伊波洋一": 372,
+          "金城竜郎": 17
+        },
+        "valid": 915,
+        "invalid": 2,
+        "turnout": {
+          "electors": {
+            "male": 611,
+            "female": 583,
+            "total": 1194
+          },
+          "voters": {
+            "male": 455,
+            "female": 469,
+            "total": 924
+          }
+        }
+      }
+    ]
+  },
+  "sources": [
+    "nenpou-r7",
+    "2010-kekka",
+    "soumu-2010"
+  ]
+}

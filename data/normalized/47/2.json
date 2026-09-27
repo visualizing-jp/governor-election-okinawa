@@ -1,0 +1,45 @@
+{
+  "pref": "47",
+  "n": 2,
+  "date": "1976-06-13",
+  "notice": "1976-05-19",
+  "reason": "任期満了",
+  "turnout": {
+    "electors": {
+      "male": 305912,
+      "female": 334482,
+      "total": 640394
+    },
+    "voters": {
+      "male": 248042,
+      "female": 277526,
+      "total": 525568
+    }
+  },
+  "candidates": [
+    {
+      "id": "平良幸市",
+      "name": "平良幸市",
+      "age": 66,
+      "status": "新",
+      "occupation": "沖縄社会大衆党委員長",
+      "party": "無所属",
+      "votes": 270880,
+      "elected": true
+    },
+    {
+      "id": "安里積千代",
+      "name": "安里積千代",
+      "age": 72,
+      "status": "新",
+      "occupation": "民社党沖縄県連委員長",
+      "party": "無所属",
+      "votes": 238283,
+      "elected": false
+    }
+  ],
+  "municipalities": null,
+  "sources": [
+    "nenpou-r7"
+  ]
+}

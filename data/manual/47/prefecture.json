@@ -1,0 +1,228 @@
+{
+  "note": "手起こしの正本。第1〜14回は沖縄県選挙管理委員会「令和7年版選挙管理委員会年報」の「3 沖縄県知事選挙の実績」(1)(3)による。第15回の候補者は県選管「候補者情報」（氏名・党派）と Wikipedia「2026年沖縄県知事選挙」（年齢）による。turnout は [男, 女, 計]。ballot は市町村別の開票表の候補者列の並び（届出順）。",
+  "elections": [
+    {
+      "n": 1,
+      "date": "1972-06-25",
+      "notice": "1972-05-31",
+      "reason": "本土復帰に伴う選挙",
+      "electors": [267346, 315408, 582754],
+      "voters": [202341, 242401, 444742],
+      "candidates": [
+        { "name": "屋良朝苗", "age": 69, "status": "現", "occupation": "沖縄県知事", "party": "革新共斗会議", "votes": 251230, "elected": true },
+        { "name": "大田政作", "age": 68, "status": "新", "occupation": "弁護士", "party": "自由民主党", "votes": 177780, "elected": false }
+      ],
+      "sources": ["nenpou-r7"]
+    },
+    {
+      "n": 2,
+      "date": "1976-06-13",
+      "notice": "1976-05-19",
+      "reason": "任期満了",
+      "electors": [305912, 334482, 640394],
+      "voters": [248042, 277526, 525568],
+      "candidates": [
+        { "name": "平良幸市", "age": 66, "status": "新", "occupation": "沖縄社会大衆党委員長", "party": "無所属", "votes": 270880, "elected": true },
+        { "name": "安里積千代", "age": 72, "status": "新", "occupation": "民社党沖縄県連委員長", "party": "無所属", "votes": 238283, "elected": false }
+      ],
+      "sources": ["nenpou-r7"]
+    },
+    {
+      "n": 3,
+      "date": "1978-12-10",
+      "notice": "1978-11-15",
+      "reason": "知事の辞職",
+      "electors": [323781, 350408, 674189],
+      "voters": [257629, 288001, 545630],
+      "candidates": [
+        { "name": "西銘順治", "age": 57, "status": "新", "occupation": "無職", "party": "無所属", "votes": 284049, "elected": true },
+        { "name": "知花英夫", "age": 69, "status": "新", "occupation": "歯科医師", "party": "無所属", "votes": 257902, "elected": false }
+      ],
+      "sources": ["nenpou-r7"]
+    },
+    {
+      "n": 4,
+      "date": "1982-11-14",
+      "notice": "1982-10-20",
+      "reason": "任期満了",
+      "electors": [349570, 373880, 723450],
+      "voters": [280168, 311071, 591239],
+      "candidates": [
+        { "name": "西銘順治", "age": 61, "status": "現", "occupation": "沖縄県知事", "party": "無所属", "votes": 299022, "elected": true },
+        { "name": "喜屋武真栄", "age": 70, "status": "新", "occupation": "団体役員", "party": "知事選革新共闘", "votes": 285707, "elected": false }
+      ],
+      "sources": ["nenpou-r7"]
+    },
+    {
+      "n": 5,
+      "date": "1986-11-16",
+      "notice": "1986-10-27",
+      "reason": "任期満了",
+      "electors": [378696, 401785, 780481],
+      "voters": [273162, 305287, 578449],
+      "candidates": [
+        { "name": "西銘順治", "age": 65, "status": "現", "occupation": "沖縄県知事", "party": "無所属", "votes": 321936, "elected": true },
+        { "name": "金城睦", "age": 49, "status": "新", "occupation": "弁護士", "party": "知事選革新共闘会議", "votes": 252744, "elected": false }
+      ],
+      "sources": ["nenpou-r7"]
+    },
+    {
+      "n": 6,
+      "date": "1990-11-18",
+      "notice": "1990-10-29",
+      "reason": "任期満了",
+      "electors": [401622, 426687, 828309],
+      "voters": [297695, 338299, 635994],
+      "candidates": [
+        { "name": "大田昌秀", "age": 65, "status": "新", "occupation": "無職", "party": "知事選革新共闘会議", "votes": 330982, "elected": true },
+        { "name": "西銘順治", "age": 69, "status": "現", "occupation": "沖縄県知事", "party": "無所属", "votes": 300917, "elected": false }
+      ],
+      "sources": ["nenpou-r7"]
+    },
+    {
+      "n": 7,
+      "date": "1994-11-20",
+      "notice": "1994-11-03",
+      "reason": "任期満了",
+      "electors": [429611, 455119, 884730],
+      "voters": [258301, 295047, 553348],
+      "candidates": [
+        { "name": "大田昌秀", "age": 69, "status": "現", "occupation": "沖縄県知事", "party": "無所属", "votes": 330601, "elected": true },
+        { "name": "翁長助裕", "age": 58, "status": "新", "occupation": "無職", "party": "無所属", "votes": 217769, "elected": false }
+      ],
+      "sources": ["nenpou-r7"]
+    },
+    {
+      "n": 8,
+      "date": "1998-11-15",
+      "notice": "1998-10-29",
+      "reason": "任期満了",
+      "electors": [457205, 482340, 939545],
+      "voters": [341377, 377782, 719159],
+      "candidates": [
+        { "name": "稲嶺惠一", "age": 65, "status": "新", "occupation": "沖縄県経営者協会顧問", "party": "無所属", "votes": 374833, "elected": true },
+        { "name": "大田昌秀", "age": 73, "status": "現", "occupation": "沖縄県知事", "party": "無所属", "votes": 337369, "elected": false },
+        { "name": "又吉光雄", "age": 54, "status": "新", "occupation": "世界経済共同体党代表", "party": "世界経済共同体党", "votes": 2649, "elected": false }
+      ],
+      "sources": ["nenpou-r7"]
+    },
+    {
+      "n": 9,
+      "date": "2002-11-17",
+      "notice": "2002-10-31",
+      "reason": "任期満了",
+      "electors": [480798, 506232, 987030],
+      "voters": [267292, 297459, 564751],
+      "candidates": [
+        { "name": "稲嶺惠一", "age": 69, "status": "現", "occupation": "沖縄県知事", "party": "無所属", "votes": 359604, "elected": true },
+        { "name": "吉元政矩", "age": 66, "status": "新", "occupation": "沖縄21戦略フォーラム代表", "party": "無所属", "votes": 148401, "elected": false },
+        { "name": "新垣繁信", "age": 60, "status": "新", "occupation": "医師", "party": "無所属", "votes": 46230, "elected": false },
+        { "name": "又吉光雄", "age": 58, "status": "新", "occupation": "世界経済共同体党代表", "party": "世界経済共同体党", "votes": 4330, "elected": false }
+      ],
+      "ballot": ["新垣繁信", "稲嶺惠一", "吉元政矩", "又吉光雄"],
+      "municipalities": { "kaihyo": "2002-kaihyo", "touhyo": "2002-touhyo" },
+      "sources": ["nenpou-r7", "2002-kaihyo", "2002-touhyo"]
+    },
+    {
+      "n": 10,
+      "date": "2006-11-19",
+      "notice": "2006-11-02",
+      "reason": "任期満了",
+      "electors": [503914, 532829, 1036743],
+      "voters": [317707, 351455, 669162],
+      "candidates": [
+        { "name": "仲井眞弘多", "age": 67, "status": "新", "occupation": "無職", "party": "無所属", "votes": 347303, "elected": true },
+        { "name": "糸数慶子", "age": 59, "status": "新", "occupation": "無職", "party": "無所属", "votes": 309985, "elected": false },
+        { "name": "屋良朝助", "age": 54, "status": "新", "occupation": "アリスTシャツセンター代表", "party": "琉球独立党", "votes": 6220, "elected": false }
+      ],
+      "ballot": ["糸数慶子", "屋良朝助", "仲井眞弘多"],
+      "municipalities": { "kaihyo": "2006-kekka", "touhyo": "2006-kekka" },
+      "sources": ["nenpou-r7", "2006-kekka"]
+    },
+    {
+      "n": 11,
+      "date": "2010-11-28",
+      "notice": "2010-11-11",
+      "reason": "任期満了",
+      "electors": [518802, 549393, 1068195],
+      "voters": [311071, 339291, 650362],
+      "candidates": [
+        { "name": "仲井眞弘多", "age": 71, "status": "現", "occupation": "沖縄県知事", "party": "無所属", "votes": 335708, "elected": true },
+        { "name": "伊波洋一", "age": 58, "status": "新", "occupation": "無職", "party": "無所属", "votes": 297082, "elected": false },
+        { "name": "金城竜郎", "age": 46, "status": "新", "occupation": "幸福の科学職員", "party": "幸福実現党", "votes": 13116, "elected": false }
+      ],
+      "ballot": ["仲井眞弘多", "伊波洋一", "金城竜郎"],
+      "municipalities": { "kaihyo": "2010-kekka", "touhyo": "2010-kekka" },
+      "sources": ["nenpou-r7", "2010-kekka", "soumu-2010"]
+    },
+    {
+      "n": 12,
+      "date": "2014-11-16",
+      "notice": "2014-10-30",
+      "reason": "任期満了",
+      "electors": [533786, 564551, 1098337],
+      "voters": [338010, 366358, 704368],
+      "candidates": [
+        { "name": "翁長雄志", "age": 64, "status": "新", "occupation": "無職", "party": "無所属", "votes": 360820, "elected": true },
+        { "name": "仲井眞弘多", "age": 75, "status": "現", "occupation": "沖縄県知事", "party": "無所属", "votes": 261076, "elected": false },
+        { "name": "下地幹郎", "age": 53, "status": "新", "occupation": "無職", "party": "無所属", "votes": 69447, "elected": false },
+        { "name": "喜納昌吉", "age": 66, "status": "新", "occupation": "音楽家", "party": "無所属", "votes": 7821, "elected": false }
+      ],
+      "ballot": ["下地幹郎", "喜納昌吉", "翁長雄志", "仲井眞弘多"],
+      "municipalities": { "kaihyo": "2014-kaihyo", "touhyo": "2014-touhyo" },
+      "sources": ["nenpou-r7", "2014-kaihyo", "2014-touhyo", "soumu-2014"]
+    },
+    {
+      "n": 13,
+      "date": "2018-09-30",
+      "notice": "2018-09-13",
+      "reason": "知事の死去",
+      "electors": [558500, 588315, 1146815],
+      "voters": [345079, 380175, 725254],
+      "candidates": [
+        { "name": "玉城康裕", "label": "玉城デニー", "age": 58, "status": "新", "occupation": "政党役員", "party": "無所属", "votes": 396632, "elected": true },
+        { "name": "佐喜眞淳", "age": 54, "status": "新", "occupation": "無職", "party": "無所属", "votes": 316458, "elected": false },
+        { "name": "兼島俊", "age": 40, "status": "新", "occupation": "無職", "party": "無所属", "votes": 3638, "elected": false },
+        { "name": "渡口初美", "age": 83, "status": "新", "occupation": "琉球料理研究家", "party": "無所属", "votes": 3482, "elected": false }
+      ],
+      "ballot": ["佐喜眞淳", "玉城康裕", "渡口初美", "兼島俊"],
+      "municipalities": { "kaihyo": "2018-kekka", "touhyo": "2018-kekka" },
+      "sources": ["nenpou-r7", "2018-kekka", "soumu-2018"]
+    },
+    {
+      "n": 14,
+      "date": "2022-09-11",
+      "notice": "2022-08-25",
+      "reason": "任期満了",
+      "electors": [567614, 597996, 1165610],
+      "voters": [322870, 352298, 675168],
+      "candidates": [
+        { "name": "玉城康裕", "label": "玉城デニー", "age": 62, "status": "現", "occupation": "沖縄県知事", "party": "無所属", "votes": 339767, "elected": true },
+        { "name": "佐喜眞淳", "age": 58, "status": "新", "occupation": "無職", "party": "無所属", "votes": 274844, "elected": false },
+        { "name": "下地幹郎", "age": 61, "status": "新", "occupation": "無職", "party": "無所属", "votes": 53677, "elected": false }
+      ],
+      "ballot": ["下地幹郎", "佐喜眞淳", "玉城康裕"],
+      "municipalities": { "kaihyo": "2022-kaihyo", "touhyo": "2022-touhyo" },
+      "sources": ["nenpou-r7", "2022-kaihyo", "2022-touhyo", "soumu-2022"]
+    },
+    {
+      "n": 15,
+      "date": "2026-09-13",
+      "notice": "2026-08-27",
+      "reason": "任期満了",
+      "electors": null,
+      "voters": null,
+      "candidates": [
+        { "name": "古謝玄太", "age": 42, "status": "新", "occupation": null, "party": "無所属", "votes": null, "elected": true },
+        { "name": "玉城康裕", "label": "玉城デニー", "age": 66, "status": "現", "occupation": null, "party": "無所属", "votes": null, "elected": false },
+        { "name": "兼島俊", "age": 48, "status": "新", "occupation": null, "party": "無所属", "votes": null, "elected": false },
+        { "name": "比嘉隆", "age": 49, "status": "新", "occupation": null, "party": "無所属", "votes": null, "elected": false },
+        { "name": "屋良朝助", "age": 74, "status": "新", "occupation": null, "party": "琉球独立党", "votes": null, "elected": false },
+        { "name": "末吉正弘", "age": 73, "status": "新", "occupation": null, "party": "無所属", "votes": null, "elected": false }
+      ],
+      "ballot": ["古謝玄太", "兼島俊", "末吉正弘", "玉城康裕", "比嘉隆", "屋良朝助"],
+      "municipalities": { "kaihyo": "2026-kaihyo", "touhyo": "2026-touhyo" },
+      "sources": ["2026-kaihyo", "2026-touhyo", "2026-kouhosha", "wikipedia-2026"]
+    }
+  ]
+}
