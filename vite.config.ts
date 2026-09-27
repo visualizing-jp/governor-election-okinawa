@@ -4,7 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  // カスタムドメイン gubernatorial-election.visualizing.jp はサイトのルート。
+  // カスタムドメイン governor-election-okinawa.visualizing.jp はサイトのルート。
   base: "/",
   build: { outDir: "dist", assetsDir: "assets" },
 });

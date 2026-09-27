@@ -19,6 +19,14 @@ export interface Boundary {
 export const BOUNDARIES: Record<string, Boundary[]> = {
   "47": [
     {
+      id: "2002",
+      label: "2002年4月〜2005年3月（52市町村）",
+      from: "2002-04-01",
+      file: "data/geo/47/2002.topojson",
+      codeKey: "N03_007",
+      nameKey: "nam_ja",
+    },
+    {
       id: "2006",
       label: "2006年1月以降（41市町村）",
       from: "2006-01-01",

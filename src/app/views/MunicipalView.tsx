@@ -4,10 +4,11 @@ import { MuniList } from "../components/MuniList.tsx";
 import { MuniTrend } from "../components/MuniTrend.tsx";
 import { Segmented } from "../components/Segmented.tsx";
 import { CampSwatch } from "../components/CampBar.tsx";
+import { MetricLegend } from "../components/MetricLegend.tsx";
 import { useWidth } from "../hooks/useWidth.ts";
 import { loadBoundary, loadElections, loadMunicipalities } from "../data/load.ts";
-import { CAMP_COLOR, TURNOUT_DOMAIN, marginColor, turnoutColor } from "../data/camps.ts";
-import { dateJa, pct, points, votes, year } from "../data/format.ts";
+import { marginColor, turnoutColor } from "../data/camps.ts";
+import { dateJa, pct, votes, year } from "../data/format.ts";
 import { OMITTED, byCurrent, currentOf as resolveCurrent, metricOf, sharesOf, type Metric } from "../data/municipal.ts";
 
 const METRICS = [
@@ -92,12 +93,12 @@ export function MunicipalView({
 
       <p className="mt-4 max-w-[46em] text-[14px] leading-relaxed">
         第{election.n}回（{dateJa(election.date)}）は、{rows.length}市町村のうち{conservativeWins}で保守系{nameOf("conservative")}が、
-        {rows.length - conservativeWins}で革新系・オール沖縄{nameOf("progressive")}が上回った。
+        {rows.length - conservativeWins}で革新系{nameOf("progressive")}が上回った。
       </p>
 
       <div className="mt-5 grid gap-8 lg:grid-cols-[minmax(0,1fr)_300px]">
         <div className="min-w-0">
-          <Legend metric={metric} />
+          <MetricLegend metric={metric} />
           <div ref={mapRef} className="mt-3">
             {topo === null || boundary === null ? (
               <div className="flex min-h-[240px] items-center justify-center rounded-md border border-dashed border-rule-strong px-6 text-center text-[12px] leading-relaxed text-muted">
@@ -177,38 +178,5 @@ export function MunicipalView({
         </aside>
       </div>
     </main>
-  );
-}
-
-function Legend({ metric }: { metric: Metric }) {
-  if (metric === "margin") {
-    const stops = [-0.6, -0.3, 0, 0.3, 0.6];
-    return (
-      <div className="max-w-[360px]">
-        <div
-          className="h-2 rounded-[2px]"
-          style={{ background: `linear-gradient(to right, ${stops.map((s) => marginColor(s)).join(", ")})` }}
-        />
-        <div className="tnum mt-1 flex justify-between text-[10px] text-muted">
-          <span style={{ color: CAMP_COLOR.conservative }}>保守系が上回る</span>
-          <span>{points(0)}</span>
-          <span style={{ color: CAMP_COLOR.progressive }}>革新系・オール沖縄が上回る</span>
-        </div>
-        <p className="mt-0.5 text-[10px] text-faint">得票率の差（革新系・オール沖縄 − 保守系）。±60pt で色が飽和する</p>
-      </div>
-    );
-  }
-  const [lo, hi] = TURNOUT_DOMAIN;
-  return (
-    <div className="max-w-[360px]">
-      <div
-        className="h-2 rounded-[2px]"
-        style={{ background: `linear-gradient(to right, ${turnoutColor(lo)}, ${turnoutColor(hi)})` }}
-      />
-      <div className="tnum mt-1 flex justify-between text-[10px] text-muted">
-        <span>{pct(lo, 0)}</span>
-        <span>{pct(hi, 0)}</span>
-      </div>
-    </div>
   );
 }

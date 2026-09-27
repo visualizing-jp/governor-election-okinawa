@@ -4,14 +4,17 @@
 
 visualizing.jp スタンドアロン。
 
-想定URL: https://gubernatorial-election.visualizing.jp
+想定URL: https://governor-election-okinawa.visualizing.jp
+
+リポジトリ: `visualizing-jp/governor-election-okinawa`。都道府県ごとに `governor-election-{県名ローマ字}` とし、全都道府県の表紙は `governor-election.visualizing.jp`（リポジトリ `governor-election`）に置く想定。
 
 ## ビュー
 
 | ビュー | 内容 |
 | --- | --- |
 | 時代 | 県全体の陣営別得票率と投票率の推移（1972–2026） |
-| 市町村 | 市町村別の陣営の得票率の差（地図）と、選んだ市町村の推移。2002〜2026 年の7回（2002 年は旧境界の地図が届くまで一覧と推移のみ） |
+| 市町村 | 市町村別の陣営の得票率の差（地図）と、選んだ市町村の推移。2002〜2026 年の7回（2002 年は合併前の52市町村の地図） |
+| 推移 | 41市町村 × 7回のマス目の表（陣営の差・投票率）。合併前の回は前身の市町村を合算。マスから市町村ビューへ移る |
 
 データ設計の正本は [`docs/data-sources.md`](docs/data-sources.md)。
 
@@ -38,5 +41,5 @@ npm run dev
 ## GitHub Pages / DNS
 
 - `.github/workflows/pages.yml` で Pages にデプロイする。
-- カスタムドメイン `gubernatorial-election.visualizing.jp` は `public/CNAME` に置いた。Pages 設定と visualizing.jp 側 DNS で登録する。
+- カスタムドメイン `governor-election-okinawa.visualizing.jp` は `public/CNAME` に置いた。Pages 設定と visualizing.jp 側 DNS で登録する。
 - Google Analytics の測定ID（`src/app/analytics.ts`）は空。入れるまで計測しない。

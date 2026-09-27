@@ -59,7 +59,7 @@
     }
   ],
   "municipalities": {
-    "boundary": null,
+    "boundary": "2002",
     "rows": [
       {
         "code": "47201",

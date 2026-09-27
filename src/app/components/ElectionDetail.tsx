@@ -93,7 +93,7 @@ export function ElectionDetail({
           </span>
         </p>
         <p className="mt-0.5 text-[11px] text-faint">
-          差（革新系・オール沖縄 − 保守系）{points(margin(shares))}
+          差（革新系 − 保守系）{points(margin(shares))}
         </p>
       </div>
 

@@ -44,8 +44,11 @@ export const marginColor = scaleLinear<string>()
   .interpolate(interpolateLab)
   .clamp(true);
 
-/** 投票率の塗り。回をまたいで比べられるよう、範囲は固定する。 */
-export const TURNOUT_DOMAIN: [number, number] = [0.4, 0.9];
+/**
+ * 投票率の塗り。回をまたいで比べられるよう、範囲は固定する。
+ * 市町村別の実績（2002〜2026年で 46.6〜91.7%）が収まる幅にする。
+ */
+export const TURNOUT_DOMAIN: [number, number] = [0.45, 0.95];
 export const turnoutColor = scaleLinear<string>()
   .domain(TURNOUT_DOMAIN)
   .range(["#f1ede6", "#3a352e"])
