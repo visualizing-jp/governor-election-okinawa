@@ -77,6 +77,8 @@ export function App() {
               if (code !== null) setMuni(code);
               setView("municipal");
             }}
+            selected={muni}
+            onSelectMunicipality={setMuni}
           />
         )}
       </Suspense>

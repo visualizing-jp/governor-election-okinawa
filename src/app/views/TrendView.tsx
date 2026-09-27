@@ -5,6 +5,9 @@
 import { Fragment, use, useState } from "react";
 import { Segmented } from "../components/Segmented.tsx";
 import { MetricLegend } from "../components/MetricLegend.tsx";
+import { SwingChart } from "../components/SwingChart.tsx";
+import { MunicipalitySelect } from "../components/MunicipalitySelect.tsx";
+import { useWidth } from "../hooks/useWidth.ts";
 import { loadElections, loadMunicipalities, PREF } from "../data/load.ts";
 import { TURNOUT_DOMAIN, campShares, margin, marginColor, turnoutColor } from "../data/camps.ts";
 import { pct, points, year } from "../data/format.ts";
@@ -39,16 +42,21 @@ export function TrendView({
   sort,
   onSort,
   onOpen,
+  selected,
+  onSelectMunicipality,
 }: {
   metric: Metric;
   onMetric: (m: Metric) => void;
   sort: TrendSort;
   onSort: (s: TrendSort) => void;
   onOpen: (n: number, code: string | null) => void;
+  selected: string;
+  onSelectMunicipality: (code: string) => void;
 }) {
   const data = use(loadElections());
   const munis = use(loadMunicipalities());
   const [hover, setHover] = useState<{ row: string; n: number } | null>(null);
+  const [swingRef, swingWidth] = useWidth<HTMLDivElement>();
 
   const columns = data.elections.filter((e) => e.municipal);
   const tallies = new Map(columns.map((e) => [e.n, byCurrent(munis, munis.elections[String(e.n)]!)]));
@@ -62,8 +70,12 @@ export function TrendView({
   };
   const fill = (v: number) => (metric === "margin" ? marginColor(v) : turnoutColor(v));
 
+  const current = CURRENT[PREF] ?? [];
+  const selectedCode = current.some((m) => m.code === selected) ? selected : current[0]!.code;
+  const selectedName = current.find((m) => m.code === selectedCode)!.name;
+
   const latest = columns.at(-1)!;
-  const rows = [...(CURRENT[PREF] ?? [])];
+  const rows = [...current];
   if (sort === "latest") rows.sort((a, b) => valueOf(b.code, latest.n) - valueOf(a.code, latest.n));
 
   const margins = rows.map((m) => columns.map((e) => metricOf(tallies.get(e.n)!.get(m.code)!, e, "margin")));
@@ -180,6 +192,33 @@ export function TrendView({
           })}
         </div>
       </div>
+
+      <section aria-labelledby="swing-title" className="mt-12 max-w-[900px]">
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <h2 id="swing-title" className="text-[13px] font-semibold">
+            市町村ごとの動き
+          </h2>
+          <MunicipalitySelect municipalities={current} value={selectedCode} onChange={onSelectMunicipality} />
+        </div>
+        <p className="mt-1 text-[11px] leading-relaxed text-muted">
+          1本の線が1市町村で、上が新しい回。{selectedName}を太線、県全体を破線で示す。市町村はここで選ぶか、線を押して切り替える。
+        </p>
+        <div ref={swingRef} className="mt-3">
+          <SwingChart
+            columns={columns}
+            lines={current.map((m) => ({
+              code: m.code,
+              name: m.name,
+              values: columns.map((e) => valueOf(m.code, e.n)),
+            }))}
+            pref={columns.map((e) => prefValue(e.n))}
+            metric={metric}
+            selected={selectedCode}
+            onSelect={onSelectMunicipality}
+            width={swingWidth}
+          />
+        </div>
+      </section>
     </main>
   );
 }
