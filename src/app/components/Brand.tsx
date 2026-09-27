@@ -1,6 +1,8 @@
-// 制作者のマーク。選挙シリーズ（Prj_JapanElection）の Brand.tsx と同じ図形。
-// シリーズの表紙に載せるかは未定なので、表紙への帰り道はまだ置かない。
+// シリーズ共通のブランド要素。都道府県知事選挙の各サイトで同じ内容を持つので、変えるときは Prj_GovernorElection 配下の各サイトに揃える。
+// マークの図形は選挙シリーズ（Prj_JapanElection）の Brand.tsx と同じ。
 
+export const HUB_URL = "https://governor-election.visualizing.jp/";
+export const HUB_TITLE = "都道府県知事選挙の記録";
 export const VISUALIZING_URL = "https://visualizing.jp/";
 
 /**
@@ -24,12 +26,21 @@ export function VisualizingMark({ className = "" }: { className?: string }) {
 
 const LINK = "transition-colors duration-150 ease-[var(--ease-out)]";
 
-/** ヘッダー最上段。右に制作者のマーク。 */
+/** ヘッダー最上段。左にシリーズ表紙への帰り道、右に制作者のマーク。 */
 export function TopBar() {
   return (
     <div className="border-b border-rule">
       <div className="mx-auto flex h-10 w-full max-w-[1240px] items-center justify-between gap-4 px-6">
-        <span className="text-[11px] tracking-[0.06em] text-muted">都道府県知事選挙</span>
+        <a
+          href={HUB_URL}
+          className={`group inline-flex min-w-0 items-center gap-2 text-[11px] tracking-[0.06em] text-muted ${LINK} hover:text-ink`}
+        >
+          <span aria-hidden className="transition-transform duration-150 ease-[var(--ease-out)] group-hover:-translate-x-0.5">
+            ←
+          </span>
+          <span className="truncate">{HUB_TITLE}</span>
+          <span className="hidden text-faint sm:inline">一覧</span>
+        </a>
         <a
           href={VISUALIZING_URL}
           aria-label="visualizing.jp"
@@ -43,10 +54,19 @@ export function TopBar() {
   );
 }
 
-/** フッター末尾。 */
+/** フッター末尾。読み終えた人にも表紙への帰り道と制作者を示す。 */
 export function Credit() {
   return (
-    <div className="mt-8 flex justify-end border-t border-rule pt-6">
+    <div className="mt-8 flex flex-wrap items-center justify-between gap-x-6 gap-y-4 border-t border-rule pt-6">
+      <a
+        href={HUB_URL}
+        className={`group inline-flex items-center gap-2 text-[12px] tracking-[0.06em] text-muted ${LINK} hover:text-ink`}
+      >
+        <span aria-hidden className="transition-transform duration-150 ease-[var(--ease-out)] group-hover:-translate-x-0.5">
+          ←
+        </span>
+        {HUB_TITLE}の一覧へ
+      </a>
       <a href={VISUALIZING_URL} className={`inline-flex items-center gap-2.5 text-muted ${LINK} hover:text-ink`}>
         <VisualizingMark className="h-8 w-auto" />
         <span className="flex flex-col leading-tight">
