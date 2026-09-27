@@ -42,4 +42,4 @@ npm run dev
 
 - `.github/workflows/pages.yml` で Pages にデプロイする。
 - カスタムドメイン `governor-election-okinawa.visualizing.jp` は `public/CNAME` に置いた。Pages 設定と visualizing.jp 側 DNS で登録する。
-- Google Analytics の測定ID（`src/app/analytics.ts`）は空。入れるまで計測しない。
+- Google Analytics の測定ID（`src/app/analytics.ts`）は `G-TJ0Z3EE92E`。都道府県知事選挙シリーズ共通で、表紙と各都道府県のサイトで同じ ID を使う。

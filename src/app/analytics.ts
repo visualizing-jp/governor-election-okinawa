@@ -5,7 +5,8 @@
  * 既定の page_view は初回しか飛ばないので、URL が変わったときだけもう一度送る。
  */
 
-const MEASUREMENT_ID: string = "";
+/** 都道府県知事選挙シリーズ共通（表紙と各都道府県のサイトで同じ ID を使う）。 */
+const MEASUREMENT_ID: string = "G-TJ0Z3EE92E";
 
 declare global {
   interface Window {
